@@ -1,0 +1,16 @@
+Index: src/sleepy.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/sleepy.java	(date 1547876153360)
++++ src/sleepy.java	(date 1547876153360)
+@@ -13,7 +13,7 @@
+ 
+ public class sleepy
+ {
+-   
++
+     public static void main(String[] args) throws Exception
+     {
+         //USACO 2019 January Contest, Bronze
