@@ -12,14 +12,35 @@ public class TheatreSquare
         long m = scanner.nextInt();
         long a = scanner.nextInt();
 
-        if (n % a ==0 && m % a == 0)
-        {
-            System.out.println((n * m) / (a * a));
-        }else
-        {
-            if(n%a == 0 && m%a != 0)
-            {
+        long ans = (m/a) * (n/a);
 
+        if (a > m && a > n)
+        {
+            System.out.println(1);
+            return;
+        } else if (n % a == 0 && m % a == 0)
+        {
+            System.out.println(ans);
+            return;
+        } else
+        {
+            if (n % a == 0 && m % a != 0)
+            {
+                ans += (n-(n%a))/a;
+                System.out.println(ans);
+                return;
+            }
+            if (n % a != 0 && m % a == 0)
+            {
+                ans += (n-(n%a))/a;
+                System.out.println(ans);
+                return;
+            }
+            if (n % a != 0 && m % a != 0)
+            {
+                ans += (n-(n%a))/a + (m-(m%a))/a + 1;
+                System.out.println(ans);
+                return;
             }
         }
 
