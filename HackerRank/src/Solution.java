@@ -8,37 +8,96 @@ import java.util.regex.*;
 
 public class Solution {
 
-    // Complete the beautifulDays function below.
-    static int beautifulDays(int i, int j, int k) {
-        int count = 0;
-        for(int x = i; x <= j; x++)
-        {
-            String initialNumber = Integer.toString(x);
-            String finalNumber = "";
+    // Complete the climbingLeaderboard function below.
+    static int[] climbingLeaderboard(int[] scores, int[] alice) {
+        int ans[] = new int[alice.length];
 
-            for(int l = initialNumber.length()-1; l >= 0; l--)
+        int rank = 1;
+
+        int prev = scores[0];
+
+        Entry[] leaderBoard = new Entry[scores.length];
+        for(int i = 0; i < scores.length; i++)
+        {
+            if(prev != scores[i])
             {
-                finalNumber+=initialNumber.charAt(l);
+                rank++;
             }
-            int xFinal = Integer.parseInt(finalNumber);
-            if(Math.abs(xFinal-x)%k== 0)
+            leaderBoard[i] = new Entry(scores[i], rank);
+
+            prev = scores[i];
+        }
+
+        int j = 0;
+        for(int i = scores.length-1; i >= 0; i--)
+        {
+            if(alice[j] < leaderBoard[i].val)
             {
-                count++;
+                ans[j++] = leaderBoard[i].rank + 1;
+            }else if(alice[j] > leaderBoard[0].val)
+            {
+                ans[j] = 1;
+                break;
+            }
+
+            if(j > alice.length-1)
+            {
+                break;
             }
         }
-        return count;
+        if(alice[alice.length-1] > leaderBoard[0].val)
+        {
+            ans[j] = 1;
+        }
+
+        return ans;
     }
 
-    public static void main(String[] args) throws IOException {
-        Scanner scanner = new Scanner(System.in);
 
-        int i = Integer.parseInt(scanner.next());
 
-        int j = Integer.parseInt(scanner.next());
-        int k = Integer.parseInt(scanner.next());
+    static Scanner scanner = new Scanner(System.in);
 
-        int result = beautifulDays(i, j, k);
-        System.out.println(result);
+    public static void main(String[] args) throws IOException
+    {
+        int scoresCount = scanner.nextInt();
 
+        int[] scores = new int[scoresCount];
+
+
+        for (int i = 0; i < scoresCount; i++) {
+            int scoresItem = scanner.nextInt();
+            scores[i] = scoresItem;
+        }
+
+        int aliceCount = scanner.nextInt();
+
+        int[] alice = new int[aliceCount];
+
+        for (int i = 0; i < aliceCount; i++) {
+            int aliceItem = scanner.nextInt();
+            alice[i] = aliceItem;
+        }
+
+        int[] result = climbingLeaderboard(scores, alice);
+
+        for (int i = 0; i < result.length; i++) {
+            System.out.println(String.valueOf(result[i]));
+
+            if (i != result.length - 1) {
+            }
+        }
+
+        scanner.close();
+    }
+}
+
+class Entry
+{
+    int val, rank;
+
+    public Entry(int val, int rank)
+    {
+        this.val = val;
+        this.rank = rank;
     }
 }
