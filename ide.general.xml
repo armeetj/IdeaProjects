@@ -4,4 +4,7 @@
     <option name="defaultProjectDirectory" value="C:\Users\singh\Projects\IdeaProjects" />
     <option name="reopenLastProject" value="false" />
   </component>
+  <component name="Registry">
+    <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
+  </component>
 </application>
