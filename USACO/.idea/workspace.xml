@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74379368-5c1a-414f-895c-946b733dc3e0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../FirstBot" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstBot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstBot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms and Data Structures/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms and Data Structures/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Codechef Contests/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Codechef Contests/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Codechef/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Codechef/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerRank/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Helloworld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Helloworld/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StanfordAlgorithms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StanfordAlgorithms/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UC San Diego/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UC San Diego/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algs4Part1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../algs4Part1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ide.general.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,6 +76,15 @@
         <counts>
           <entry key="JAVA" value="66289" />
           <entry key="PLAIN_TEXT" value="728" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1014751272">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -228,8 +247,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -252,7 +271,7 @@
     <property name="SearchEverywhereHistoryKey" value="split vertically&#9;ACTION&#9;SplitVertically&#10;split vert&#9;ACTION&#9;SplitVertically&#10;verticall&#9;ACTION&#9;SplitVertically&#10;split&#9;ACTION&#9;ToggleSideMode&#10;split hori&#9;ACTION&#9;SplitHorizontally&#10;split horizontally&#9;ACTION&#9;SplitHorizontally&#10;split hor&#9;ACTION&#9;SplitHorizontally&#10;spli&#9;ACTION&#9;SplitVertically&#10;split vertical&#9;ACTION&#9;SplitVertically&#10;split h&#9;ACTION&#9;SplitHorizontally&#10;new class&#9;ACTION&#9;NewClass&#10;new&#9;ACTION&#9;NewGroup&#10;new &#9;ACTION&#9;NewGroup&#10;new cla&#9;ACTION&#9;NewClass&#10;surround with &#9;ACTION&#9;SurroundWithLiveTemplate&#10;open&#9;ACTION&#9;OpenFile&#10;projet&#9;null&#9;null&#10;file&#9;PSI&#9;JAVA://java.io.File&#10;new clas&#9;ACTION&#9;NewClass&#10;run&#9;ACTION&#9;ActivateRunToolWindow" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554000497056" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="TEXT" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Codechef" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../USACOTraining" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -458,7 +477,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12526652" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12633263" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Nl-Palette" order="3" />
