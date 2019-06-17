@@ -2,22 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e81e98fb-f2d9-4e50-9761-87c0fdb68e11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Introduction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Welcome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstBot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../USACOTraining/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../USACOTraining/combo.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../USACOTraining/src/combo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introduction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstBot" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstBot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../USACOTraining/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../USACOTraining/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_windows/laf.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_windows/path.macros.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACOTraining/combo.in" beforeDir="false" afterPath="$PROJECT_DIR$/../USACOTraining/combo.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACOTraining/src/combo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../USACOTraining/src/combo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../algs4_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../algs4_1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code.style.schemes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codestyles/Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../colors.scheme.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../debugger.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../editor.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../filetypes.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,16 +22,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Introduction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="304">
+              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#3045#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Welcome.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
@@ -65,15 +58,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Introduction.java" />
         <option value="$PROJECT_DIR$/src/Welcome.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/src/Introduction.java" />
       </list>
     </option>
   </component>
@@ -110,6 +96,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -132,7 +119,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Welcome">
+  <component name="RunManager" selected="Application.Introduction">
     <configuration name="Introduction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Introduction" />
       <module name="COMSC75" />
@@ -149,8 +136,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Welcome" />
         <item itemvalue="Application.Introduction" />
+        <item itemvalue="Application.Welcome" />
       </list>
     </recent_temporary>
   </component>
@@ -206,17 +193,20 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Introduction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Welcome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Introduction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#3045#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
