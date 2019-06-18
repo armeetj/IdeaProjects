@@ -13,7 +13,6 @@ public class Introduction
     {
 	//Constants
 	final int DAYS_IN_YEAR = 365;
-    	final int FAV_NUMBER = 1;
 
         //print my name
         System.out.println("My name is Armeet Jatyani.\n");
@@ -39,8 +38,9 @@ public class Introduction
         //print my age in days
         System.out.println(ageInDays);
 
-        //calculate the product of 12345679, 9 and my favorite number
-        //store this in a variable called product
+	//store my favorite number in a variable
+	int favNumber = 1;
+        //calculate and store the product
         int product = 12345679 * 9 * FAV_NUMBER;
         //print the product
         System.out.println(product);
