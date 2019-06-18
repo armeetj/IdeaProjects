@@ -7,7 +7,9 @@
 */
 
 //import the necessary libraries
+//import Math to gain access to Math.pow() and Math.sqrt() functions
 import java.lang.Math;
+//import Scanner to read user input
 import java.util.Scanner;
 
 public class AreaTriangle
