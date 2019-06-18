@@ -1,5 +1,5 @@
 //Armeet Singh Jatyani
-//Variables / AreaTriangle
+//AreaTriangle
 /*
 	In this program, we prompt the user for 3 coordinate pairs.
 	We use the distance between two points formulas and Heron's formula
