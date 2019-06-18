@@ -2,7 +2,7 @@
 //AreaTriangle
 /*
 	In this program, we prompt the user for 3 coordinate pairs.
-	We use the distance between two points formulas and Heron's formula
+	We use the distance between two points formula and Heron's formula
 	to find the area of this triangle.
 */
 
