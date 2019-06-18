@@ -11,8 +11,8 @@ public class Introduction
 {
     public static void main(String[] args)
     {
-	//Constants
-	final int DAYS_IN_YEAR = 365;
+        //Constants
+        final int DAYS_IN_YEAR = 365;
 
         //print my name
         System.out.println("My name is Armeet Jatyani.\n");
@@ -38,10 +38,10 @@ public class Introduction
         //print my age in days
         System.out.println(ageInDays);
 
-	//store my favorite number in a variable
-	int favNumber = 1;
+        //store my favorite number in a variable
+        int favNumber = 1;
         //calculate and store the product
-        int product = 12345679 * 9 * FAV_NUMBER;
+        int product = 12345679 * 9 * favNumber;
         //print the product
         System.out.println(product);
     }
