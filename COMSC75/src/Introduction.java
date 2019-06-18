@@ -2,23 +2,23 @@
 //Introduction
 /*
     Write a Java program that prints my name, favorite short poem
-    , author, age in years, age in days, and the product
+    with author, age in years, age in days, and the product
     of my favorite number, 123456789, and 9
     We also learn how to make new lines using the \n character
 */
 
 public class Introduction
 {
-    //Constants
-    static final int DAYS_IN_YEAR = 365;
-    static final int favNumber = 1;
-
     public static void main(String[] args)
     {
-        //display my name
+		//Constants
+		final int DAYS_IN_YEAR = 365;
+    	final int FAV_NUMBER = 1;
+
+        //print my name
         System.out.println("My name is Armeet Jatyani.\n");
 
-        //print my poem line by line to keep my code neat
+        //print my poem line by line with the author
         System.out.println("I shall be telling this with a sigh");
         System.out.println("Somewhere ages and ages hence:");
         System.out.println("Two roads diverged in a wood, and I—");
@@ -26,20 +26,23 @@ public class Introduction
         System.out.println("And that has made all the difference.");
         System.out.println("    --Robert Frost");
 
-        //just print a blank line
+        //print a blank line
         System.out.println();
 
         //store my age in years as a variable
         int ageInYears = 14;
-        //print out my age
+        //print out my age in years
         System.out.println(ageInYears);
 
-        //convert the ageInYears to ageInDays
-        int ageInDays = (ageInYears);
+        //convert my  ageInYears to ageInDays
+        int ageInDays = (ageInYears * DAYS_IN_YEAR);
         //print my age in days
         System.out.println(ageInDays);
 
-        //here I store my favorite number in another variable with an integer datatype
-        System.out.println(12345679 * 9 * favNumber);
+        //calculate the product of 12345679, 9 and my favorite number
+        //store this in a variable called product
+        int product = 12345679 * 9 * FAV_NUMBER;
+        //print the product
+        System.out.println(product);
     }
 }
