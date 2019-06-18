@@ -51,7 +51,7 @@ public class AreaTriangle
 
 	public static double distance(double x1,double y1,double x2,double y2)
 	{
-		//this method calculates the distance between two points
+		//this method/function calculates the distance between two points
 		//coordinates are (x1,y1) and (x2,y2)
 		return Math.sqrt((Math.pow((x1-x2),2) + (Math.pow((y1-y2), 2))));
 	}
