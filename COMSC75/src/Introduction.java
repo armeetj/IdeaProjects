@@ -11,8 +11,8 @@ public class Introduction
 {
     public static void main(String[] args)
     {
-		//Constants
-		final int DAYS_IN_YEAR = 365;
+	//Constants
+	final int DAYS_IN_YEAR = 365;
     	final int FAV_NUMBER = 1;
 
         //print my name
