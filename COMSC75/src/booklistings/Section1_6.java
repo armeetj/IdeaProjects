@@ -1,8 +1,8 @@
-package bookprojects;
+package booklistings;
 
 import java.util.Scanner;
 
-public class Section1_5
+public class Section1_6
 {
     public static void main(String[] args)
     {
