@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e81e98fb-f2d9-4e50-9761-87c0fdb68e11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bookprojects/pg21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookprojects/Section1_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstBot" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstBot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../USACO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../USACO/src/evolution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/src/evolution2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../USACOTraining/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../USACOTraining/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../USACOTraining/combo.in" beforeDir="false" afterPath="$PROJECT_DIR$/../USACOTraining/combo.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../USACOTraining/src/combo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../USACOTraining/src/combo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../algs4_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../algs4_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bookprojects/pg21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bookprojects/Section1_5.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,11 +39,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/bookprojects/pg21.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bookprojects/Section1_5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="247">
+              <caret line="13" column="67" selection-start-line="13" selection-start-column="67" selection-end-line="13" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/bookprojects/Section1_4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -90,7 +93,9 @@
     <option name="width" value="1240" />
     <option name="height" value="674" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -146,7 +151,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.pg21">
+  <component name="RunManager" selected="Application.Section1_5">
     <configuration name="AreaTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AreaTriangle" />
       <module name="COMSC75" />
@@ -161,15 +166,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Welcome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Welcome" />
-      <module name="COMSC75" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="pg21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bookprojects.pg21" />
+    <configuration name="Section1_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bookprojects.Section1_5" />
       <module name="COMSC75" />
       <extension name="coverage">
         <pattern>
@@ -181,9 +179,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Welcome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Welcome" />
+      <module name="COMSC75" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.pg21" />
+        <item itemvalue="Application.Section1_5" />
         <item itemvalue="Application.AreaTriangle" />
         <item itemvalue="Application.Introduction" />
         <item itemvalue="Application.Welcome" />
@@ -205,9 +210,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49658936" visible="true" weight="0.1" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49658936" visible="true" weight="0.1" />
       <window_info id="Structure" order="1" sideWeight="0.50341064" side_tool="true" weight="0.14179105" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Nl-Palette" order="3" />
@@ -221,7 +225,7 @@
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.32939914" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32903227" />
-      <window_info active="true" anchor="bottom" x="652" y="234" width="635" height="943" id="Run" order="6" visible="true" weight="0.27793297" />
+      <window_info anchor="bottom" x="652" y="234" width="635" height="943" id="Run" order="6" visible="true" weight="0.27793297" />
       <window_info anchor="bottom" x="-1292" y="278" width="2807" height="415" id="Debug" order="7" weight="0.40236053" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Thumbnails" order="9" weight="0.32901832" />
@@ -266,10 +270,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bookprojects/pg21.java">
+    <entry file="file://$PROJECT_DIR$/src/bookprojects/Section1_5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="247">
+          <caret line="13" column="67" selection-start-line="13" selection-start-column="67" selection-end-line="13" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bookprojects/Section1_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
