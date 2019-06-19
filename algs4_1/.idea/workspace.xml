@@ -1,52 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea3ee6d4-289d-4c6b-a59b-08f556241161" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../FirstBot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../USACOVids/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algs4_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Percolation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms and Data Structures/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms and Data Structures/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Codechef Contests/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Codechef Contests/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Codechef/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Codechef/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerRank/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerRank/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerRank/out/production/HackerRank/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerRank/out/production/HackerRank/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerRank/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerRank/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Helloworld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Helloworld/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StanfordAlgorithms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StanfordAlgorithms/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UC San Diego/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UC San Diego/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../USACO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../USACOTraining/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../USACOTraining/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../USACOVids/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../USACOVids/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_windows/laf.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_windows/path.macros.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../algs4Part1/.idea/libraries/algs4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../algs4Part1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../algs4Part1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../algs4Part1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../algs4Part1/algs4Part1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../algs4Part1/libs/algs4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../algs4Part1/out/production/algs4Part1/Percolation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../algs4Part1/src/Percolation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../algs4Part1/src/PercolationStats.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codestyles/Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../colors.scheme.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../colors/DK Monokai.icls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../colors/Monokai Sublime Text 3.icls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../debugger.renderers.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../debugger.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../editor.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ide.general.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/libraries/algs4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/src/Percolation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/untitled.iml" beforeDir="false" />
+    <list default="true" id="ea3ee6d4-289d-4c6b-a59b-08f556241161" name="Default Changelist" comment="added algs4_1 files">
+      <change beforePath="$PROJECT_DIR$/../FirstBot" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstBot" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -173,9 +129,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49658936" visible="true" weight="0.14978679" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49658936" visible="true" weight="0.14978679" />
       <window_info id="Structure" order="1" sideWeight="0.50341064" side_tool="true" weight="0.14179105" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Nl-Palette" order="3" />
@@ -183,8 +138,8 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Image Layers" order="7" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32188842" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" order="0" visible="true" weight="0.3215434" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.3290461" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.32939914" />
       <window_info anchor="bottom" id="Message" order="4" />
@@ -209,12 +164,23 @@
       <window_info anchor="right" x="100" y="100" width="1080" height="600" id="Documentation" order="10" type="FLOATING" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added algs4_1 files" />
+    <option name="LAST_COMMIT_MESSAGE" value="added algs4_1 files" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/tests/input2.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/Algorithms, Part I.iml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algs4_1.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/CREDITS">
       <provider selected="true" editor-type-id="text-editor" />

@@ -3,31 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="9d2fa4a7-d1d7-448f-b440-6b569a841d4f" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../FirstBot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../USACOVids/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms and Data Structures/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms and Data Structures/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Codechef Contests/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Codechef Contests/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Codechef/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Codechef/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerRank/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerRank/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerRank/out/production/HackerRank/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerRank/out/production/HackerRank/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HackerRank/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerRank/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Helloworld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Helloworld/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StanfordAlgorithms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StanfordAlgorithms/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UC San Diego/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UC San Diego/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../USACO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/combo.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/combo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../USACOVids/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../USACOVids/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../_windows/laf.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../_windows/path.macros.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../algs4Part1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../algs4Part1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algs4_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../algs4_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code.style.schemes.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../codestyles/Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../colors.scheme.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../colors/DK Monokai.icls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../colors/Monokai Sublime Text 3.icls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../debugger.renderers.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../debugger.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../editor.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ide.general.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../filetypes.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,21 +25,29 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.7542522">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/crypt1.java">
+            <entry file="file://$PROJECT_DIR$/src/combo.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="493">
-                  <caret line="58" column="30" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+                <state relative-caret-position="262">
+                  <caret line="34" column="42" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/beads.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="228">
+                  <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
                 </state>
               </provider>
             </entry>
@@ -60,20 +56,20 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/crypt1.in">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/combo.in">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="21">
-                  <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+                <state relative-caret-position="19">
+                  <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/crypt1.out">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/combo.out">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="21">
-                  <caret line="1" selection-start-line="1" selection-end-line="1" />
+                <state>
+                  <caret column="3" selection-start-column="3" selection-end-column="3" />
                 </state>
               </provider>
             </entry>
@@ -116,6 +112,8 @@
         <option value="$PROJECT_DIR$/src/barn1.java" />
         <option value="$PROJECT_DIR$/crypt1.in" />
         <option value="$PROJECT_DIR$/src/crypt1.java" />
+        <option value="$PROJECT_DIR$/src/combo.java" />
+        <option value="$PROJECT_DIR$/combo.in" />
       </list>
     </option>
   </component>
@@ -126,10 +124,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="229" />
-    <option name="y" value="321" />
-    <option name="width" value="1238" />
-    <option name="height" value="672" />
+    <option name="x" value="285" />
+    <option name="y" value="400" />
+    <option name="width" value="1549" />
+    <option name="height" value="840" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -170,6 +168,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -186,7 +185,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -198,7 +196,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15234375" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -212,9 +210,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.crypt1">
+  <component name="RunManager" selected="Application.combo">
     <configuration name="barn1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="barn1" />
+      <module name="USACOTraining" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="combo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="combo" />
       <module name="USACOTraining" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -241,27 +246,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="namenum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="namenum" />
-      <module name="USACOTraining" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.namenum" />
       <item itemvalue="Application.garbage" />
       <item itemvalue="Application.milk" />
       <item itemvalue="Application.barn1" />
       <item itemvalue="Application.crypt1" />
+      <item itemvalue="Application.combo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.combo" />
         <item itemvalue="Application.crypt1" />
         <item itemvalue="Application.barn1" />
         <item itemvalue="Application.milk" />
         <item itemvalue="Application.garbage" />
-        <item itemvalue="Application.namenum" />
       </list>
     </recent_temporary>
   </component>
@@ -279,9 +277,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09328358" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.09434968" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Nl-Palette" order="3" />
@@ -289,19 +287,18 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Image Layers" order="7" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.57539684" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.5744909" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5010661" side_tool="true" weight="0.4409871" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.32939914" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32903227" />
-      <window_info anchor="bottom" x="652" y="234" width="635" height="943" id="Run" order="6" sideWeight="0.4989339" weight="0.63412017" />
-      <window_info anchor="bottom" x="1" y="31" width="1531" height="801" id="Debug" order="7" weight="0.34334764" />
+      <window_info anchor="bottom" x="652" y="234" width="635" height="943" id="Run" order="6" sideWeight="0.4989339" weight="0.3924581" />
+      <window_info anchor="bottom" x="1" y="31" width="1531" height="801" id="Debug" order="7" weight="0.34297964" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Thumbnails" order="9" weight="0.32901832" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32995737" />
       <window_info anchor="right" id="Commander" order="1" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -313,9 +310,10 @@
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info anchor="right" x="100" y="100" width="1080" height="600" id="Documentation" order="10" type="FLOATING" />
+      <window_info anchor="right" id="Maven" order="11" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09115139" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09434968" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Nl-Palette" order="3" />
@@ -323,14 +321,14 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Image Layers" order="7" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32188842" />
-      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50053304" side_tool="true" weight="0.21888413" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.5744909" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5010661" side_tool="true" weight="0.4409871" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.32939914" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32903227" />
-      <window_info anchor="bottom" x="652" y="234" width="635" height="943" id="Run" order="6" sideWeight="0.49946696" weight="0.52360517" />
-      <window_info active="true" anchor="bottom" x="1" y="31" width="1531" height="801" id="Debug" order="7" visible="true" weight="0.34334764" />
+      <window_info active="true" anchor="bottom" x="652" y="234" width="635" height="943" id="Run" order="6" sideWeight="0.4989339" visible="true" weight="0.39228296" />
+      <window_info anchor="bottom" x="1" y="31" width="1531" height="801" id="Debug" order="7" weight="0.34297964" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Thumbnails" order="9" weight="0.32901832" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -346,6 +344,7 @@
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info anchor="right" x="100" y="100" width="1080" height="600" id="Documentation" order="10" type="FLOATING" />
+      <window_info anchor="right" id="Maven" order="11" />
     </layout-to-restore>
   </component>
   <component name="XDebuggerManager">
@@ -514,13 +513,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dualpal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="50" column="9" lean-forward="true" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/palsquare.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="436">
@@ -606,13 +598,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/beads.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2229">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/milk.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="333">
@@ -649,13 +634,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crypt1.out">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/crypt1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -666,10 +644,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/crypt1.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/crypt1.in">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        <state relative-caret-position="19">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dualpal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="14" selection-start-line="23" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beads.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combo.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combo.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/combo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="34" column="42" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
