@@ -39,21 +39,20 @@ public class AreaTriangle
 		double side3 = distance(x1, y1, x3, y3);
 
 		//calculate the semiperimeter of the traingle
-		double semiPerimeter = (side1 + side2 + side3)/2;
+		double semiPerimeter = (side1 + side2 + side3) / 2;
 
 		//calculate area of the rectangle
 		double area = Math.sqrt(semiPerimeter * (semiPerimeter - side1) *
-		(semiPerimeter - side2) * (semiPerimeter - side3));
+													 (semiPerimeter - side2) * (semiPerimeter - side3));
 
 		//print out the area to the user
 		System.out.printf("The area of the triangle is %.1f ", area);
-
 	}
 
+	//this method/function calculates the distance between two points
+	//coordinates are (x1,y1) and (x2,y2)
 	public static double distance(double x1,double y1,double x2,double y2)
 	{
-		//this method/function calculates the distance between two points
-		//coordinates are (x1,y1) and (x2,y2)
-		return Math.sqrt((Math.pow((x1-x2),2) + (Math.pow((y1-y2), 2))));
+		return Math.sqrt((Math.pow((x1 - x2), 2) + (Math.pow((y1 - y2), 2))));
 	}
 }
