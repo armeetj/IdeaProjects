@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e81e98fb-f2d9-4e50-9761-87c0fdb68e11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Intervals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shipping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/booklistings/DisplayTime.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/COMSC75/AreaTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/COMSC75/AreaTriangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/COMSC75/bookprojects/pg21.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AreaTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AreaTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/booklistings/CirclePerimeterArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/booklistings/CirclePerimeterArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intervals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Intervals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Shipping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shipping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/booklistings/Section1_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/booklistings/Section1_5.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,20 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/booklistings/DisplayTime.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Shipping.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+            <state relative-caret-position="329">
+              <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
               <folding>
                 <element signature="e#0#976#0" expanded="true" />
               </folding>
@@ -49,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Triangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+            <state relative-caret-position="414">
+              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
               <folding>
                 <element signature="e#0#524#0" expanded="true" />
               </folding>
@@ -64,8 +49,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Intervals.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="180">
+              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#394#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -88,15 +76,15 @@
         <option value="$PROJECT_DIR$/src/Welcome.java" />
         <option value="$PROJECT_DIR$/src/Introduction.java" />
         <option value="$PROJECT_DIR$/src/bookprojects/pg21.java" />
-        <option value="$PROJECT_DIR$/src/booklistings/Section1_5.java" />
         <option value="$PROJECT_DIR$/src/booklistings/Section1_6.java" />
         <option value="$PROJECT_DIR$/src/booklistings/Section1_4.java" />
         <option value="$PROJECT_DIR$/src/booklistings/CirclePerimeterArea.java" />
         <option value="$PROJECT_DIR$/src/booklistings/DisplayTime.java" />
-        <option value="$PROJECT_DIR$/src/Intervals.java" />
         <option value="$PROJECT_DIR$/src/AreaTriangle.java" />
-        <option value="$PROJECT_DIR$/src/Shipping.java" />
         <option value="$PROJECT_DIR$/src/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/booklistings/Section1_5.java" />
+        <option value="$PROJECT_DIR$/src/Intervals.java" />
+        <option value="$PROJECT_DIR$/src/Shipping.java" />
       </list>
     </option>
   </component>
@@ -164,7 +152,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Triangle">
+  <component name="RunManager" selected="Application.Shipping">
     <configuration name="AreaTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AreaTriangle" />
       <module name="COMSC75" />
@@ -208,9 +196,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Shipping" />
         <item itemvalue="Application.Triangle" />
         <item itemvalue="Application.AreaTriangle" />
-        <item itemvalue="Application.Shipping" />
         <item itemvalue="Application.Section1_5" />
         <item itemvalue="Application.Introduction" />
       </list>
@@ -248,7 +236,7 @@
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32903227" />
       <window_info active="true" anchor="bottom" x="652" y="234" width="635" height="943" id="Run" order="6" visible="true" weight="0.20480405" />
-      <window_info anchor="bottom" x="-1292" y="278" width="2807" height="415" id="Debug" order="7" weight="0.40236053" />
+      <window_info anchor="bottom" x="-1292" y="278" width="2807" height="415" id="Debug" order="7" weight="0.40202275" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Thumbnails" order="9" weight="0.32901832" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -316,13 +304,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/booklistings/Section1_5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="8" column="67" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/booklistings/Section1_6.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -344,13 +325,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Intervals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/AreaTriangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="311">
@@ -369,22 +343,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Shipping.java">
+    <entry file="file://$PROJECT_DIR$/src/booklistings/Section1_5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+        <state relative-caret-position="36">
+          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Intervals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
           <folding>
-            <element signature="e#0#976#0" expanded="true" />
+            <element signature="e#0#394#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+        <state relative-caret-position="414">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
           <folding>
             <element signature="e#0#524#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Shipping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#976#0" expanded="true" />
           </folding>
         </state>
       </provider>

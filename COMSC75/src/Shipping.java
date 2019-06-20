@@ -21,9 +21,12 @@ public class Shipping
     System.out.print("Enter the weight of the package in pounds: ");
     //store the weight entered by the user
     double userWeight = scanner.nextDouble();
-    if (userWeight <= 0 || userWeight > 20)
+    if (userWeight > 20)
     {
       System.out.println("The package cannot be shipped.");
+    } else if (userWeight <= 0)
+    {
+      System.out.println("Invalid input.");
     } else if (userWeight <= 1 && userWeight > 0)
     {
       System.out.println("Cost: $3.50 \n");
