@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e81e98fb-f2d9-4e50-9761-87c0fdb68e11" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Shipping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shipping.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +24,7 @@
         <entry file="file://$PROJECT_DIR$/src/Shipping.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="414">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
               <folding>
                 <element signature="e#0#1317#0" expanded="true" />
               </folding>
@@ -386,7 +387,7 @@
     <entry file="file://$PROJECT_DIR$/src/Shipping.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
           <folding>
             <element signature="e#0#1317#0" expanded="true" />
           </folding>

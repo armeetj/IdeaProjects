@@ -21,7 +21,7 @@ public class Shipping
     System.out.print("Enter the weight of the package in pounds: ");
     //store the weight entered by the user
     double userWeight = scanner.nextDouble();
-
+ 
     //find the weight group and print the price
     if (userWeight > 20)
     {
