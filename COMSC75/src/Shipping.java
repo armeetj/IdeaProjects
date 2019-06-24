@@ -26,22 +26,21 @@ public class Shipping
     if (userWeight > 20)
     {
       System.out.println("The package cannot be shipped.");
-    } else if (userWeight <= 0)
+    } else if (userWeight > 10)
     {
-      System.out.println("Invalid input.");
-    } else if (userWeight <= 1 && userWeight > 0)
+      System.out.println("Cost: $10.50");
+    }  else if (userWeight > 3)
     {
-      System.out.println("Cost: $3.50 \n");
-    } else if (userWeight <= 3 && userWeight > 1)
+      System.out.println("Cost: $8.50");
+    } else if (userWeight > 1)
     {
-      System.out.println("Cost: $5.50 \n");
-    } else if (userWeight <= 10 && userWeight > 3)
+      System.out.println("Cost: $5.50");
+    } else if (userWeight > 0)
     {
-      System.out.println("Cost: $8.50 \n");
-    } else if (userWeight <= 20 && userWeight > 10)
+      System.out.println("Cost: $3.50");
+    } else if (userWeight < 0)
     {
-      System.out.println("Cost: $10.50 \n");
+      System.out.println("Invalid Input");
     }
-
   }
 }
