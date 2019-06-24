@@ -6,11 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="e81e98fb-f2d9-4e50-9761-87c0fdb68e11" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Shipping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shipping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/booklistings/AddRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/booklistings/AddRandom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/booklistings/Section1_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/booklistings/Section1_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/booklistings/Section1_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/booklistings/Section1_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/booklistings/Section1_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/booklistings/Section1_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/COMSC75/Shipping.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/COMSC75/Shipping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/COMSC75/booklistings/Section1_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/COMSC75/booklistings/Section1_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/COMSC75/booklistings/Section1_6.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Shipping.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+            <state relative-caret-position="378">
+              <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
               <folding>
                 <element signature="e#0#1317#0" expanded="true" />
               </folding>
@@ -87,6 +86,12 @@
         <option value="$PROJECT_DIR$/src/Shipping.java" />
       </list>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="197" />
@@ -209,14 +214,22 @@
       <option name="presentableId" value="Default" />
       <updated>1560792045213</updated>
     </task>
+    <task id="LOCAL-00001" summary="fixed Shipping (more efficient)">
+      <created>1561398759049</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1561398759050</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49376115" visible="true" weight="0.12550336" />
-      <window_info id="Structure" order="1" sideWeight="0.5062389" side_tool="true" visible="true" weight="0.12550336" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49301675" visible="true" weight="0.12550336" />
+      <window_info id="Structure" order="1" sideWeight="0.5069832" side_tool="true" visible="true" weight="0.12550336" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Nl-Palette" order="3" />
       <window_info id="Designer" order="4" />
@@ -225,11 +238,11 @@
       <window_info id="Image Layers" order="7" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32122904" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.32960895" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.32939914" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32903227" />
-      <window_info active="true" anchor="bottom" x="652" y="234" width="635" height="943" id="Run" order="6" visible="true" weight="0.21648045" />
+      <window_info anchor="bottom" x="652" y="234" width="635" height="943" id="Run" order="6" weight="0.21648045" />
       <window_info anchor="bottom" x="-1292" y="278" width="2807" height="415" id="Debug" order="7" weight="0.40202275" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Thumbnails" order="9" weight="0.32901832" />
@@ -237,7 +250,7 @@
       <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32995737" />
       <window_info anchor="right" id="Commander" order="1" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.24966443" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Maven Projects" order="5" />
@@ -246,7 +259,7 @@
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info anchor="right" x="100" y="100" width="1080" height="600" id="Documentation" order="10" type="FLOATING" />
-      <window_info anchor="right" id="Maven" order="11" />
+      <window_info anchor="right" id="Maven" order="11" weight="0.3295302" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49658936" visible="true" weight="0.12416107" />
@@ -282,6 +295,14 @@
       <window_info anchor="right" x="100" y="100" width="1080" height="600" id="Documentation" order="10" type="FLOATING" />
       <window_info anchor="right" id="Maven" order="11" />
     </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixed Shipping (more efficient)" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed Shipping (more efficient)" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Introduction.java">
@@ -368,8 +389,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Shipping.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        <state relative-caret-position="378">
+          <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
           <folding>
             <element signature="e#0#1317#0" expanded="true" />
           </folding>
