@@ -23,33 +23,15 @@ public class Triangle
     double side2 = scanner.nextDouble();
     double side3 = scanner.nextDouble();
 
-    //isValid starts as true until proven false
-    boolean isValid = true;
-
     //if side1 + side2 < side3 the triangle is invalid
-    if (side1 + side2 < side3)
-    {
-      isValid = false;
-    }
-    //if side1 + side3 < side2 the triangle is invalid
-    if (side1 + side3 < side2)
-    {
-      isValid = false;
-    }
-    //if side2 + side3 < side1 the triangle is invalid
-    if (side2 + side3 < side1)
-    {
-      isValid = false;
-    }
-
-    if (isValid)
-    {
-      //the triangle is valid so display the perimeter of the triangle
-      System.out.println("The perimeter of the triangle is " + (side1 + side2 + side3) + "\n");
-    } else if (!isValid)
+    if (side1 + side2 < side3 || side1 + side3 < side2 || side2 + side3 < side1)
     {
       //the triangle isn't valid
       System.out.println("These sides do not specify a valid triangle. \n");
+    } else
+    {
+      //the triangle is valid so display the perimeter of the triangle
+      System.out.println("The perimeter of the triangle is " + (side1 + side2 + side3) + "\n");
     }
   }
 }
