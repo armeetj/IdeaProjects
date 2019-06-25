@@ -4,7 +4,7 @@
   In this program we ask the user for three side lengths of a triangle.
   If the triangle is valid we return the perimeter.
   If the triangle is not valid we let the user know that the triangle is invalid
- */
+*/
 
 //explicit imports
 import java.util.Scanner;
