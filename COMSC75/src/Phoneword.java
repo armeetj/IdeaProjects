@@ -1,5 +1,5 @@
 //Armeet Singh Jatyani
-//Phoneword
+//Phoneword 
 /*
   In this program we prompt the user for a 7 letter word.
   We then conver this word to a number (code) and return it
