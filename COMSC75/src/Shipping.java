@@ -5,7 +5,7 @@
   a package and then return the cost of shipping. If the weight
   is negative or equal to 0 or it is greater than 20 pounds, we
   say that we can't ship the package.
- */
+*/
 
 //explicit imports
 import java.util.Scanner;

@@ -33,6 +33,7 @@ public class Intervals
     String lateStart = scanner.next();
     String lateEnd = scanner.next();
 
+
     //find the start and end hr and min for both the early and late interval
     // and store it in variables
     int earlyStartHr = Integer.parseInt(earlyStart.substring(0, 2));
@@ -52,8 +53,10 @@ public class Intervals
     int lateMinutes = Math.abs(lateStartMin - lateEndMin);
 
     //calculate the total interval times in minutes
-    int earlyIntervalMinutes = ((earlyHrs * MIN_PER_HR) + earlyMinutes);
-    int lateIntervalMinutes = ((lateHrs * MIN_PER_HR) + lateMinutes);
+    int earlyIntervalMinutes = Math.abs(minSinceMidnight(earlyStartHr, earlyStartMin)
+            - minSinceMidnight(earlyEndHr, earlyEndMin));
+    int lateIntervalMinutes = Math.abs(minSinceMidnight(lateStartHr, lateStartMin)
+            - minSinceMidnight(lateEndHr, lateEndMin));
 
     //if the user entered the input correctly (start time, end time) for the intervals...
     if (Integer.parseInt(earlyStart.substring(0, 2)) < Integer.parseInt(
@@ -102,6 +105,11 @@ public class Intervals
     {
       System.out.println("The intervals overlap");
     }
+  }
 
+  //this method takes the input in hrs and min and converts to time after midnight
+  public static int minSinceMidnight(int hrs, int min)
+  {
+    return hrs * 60 + min;
   }
 }

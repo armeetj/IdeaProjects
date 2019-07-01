@@ -31,7 +31,9 @@ public class Triangle
     } else
     {
       //the triangle is valid so display the perimeter of the triangle
-      System.out.println("The perimeter of the triangle is " + (side1 + side2 + side3) + "\n");
+      double perimeter = side1 + side2 + side3;
+      System.out.println("The perimeter of the triangle is "
+                         + perimeter + "\n");
     }
   }
 }
