@@ -5,11 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e81e98fb-f2d9-4e50-9761-87c0fdb68e11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Phoneword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Statistics.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intervals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Intervals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Shipping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shipping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/COMSC75/Intervals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/COMSC75/Intervals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phoneword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phoneword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/buckets.in" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/buckets.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/buckets.out" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/buckets.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/factory.out" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/factory.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/herding.in" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/herding.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/herding.out" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/herding.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/out/production/USACO/AAAAA_Template.class" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/out/production/USACO/AAAAA_Template.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/out/production/USACO/factory2$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/out/production/USACO/factory2$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/out/production/USACO/factory2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/out/production/USACO/factory2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/src/AAAAA_Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/src/AAAAA_Template.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/src/buckets2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/src/buckets2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/src/factory3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/src/factory3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/src/guess3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/src/guess3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/src/herding.java" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/src/herding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/src/shell2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/src/shell2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,11 +40,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Shipping.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="37" column="27" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
-              <folding>
-                <element signature="e#0#1225#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="180">
+              <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -38,11 +49,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Triangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="360">
               <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
-              <folding>
-                <element signature="e#0#1200#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -50,13 +58,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Intervals.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="89" column="47" lean-forward="true" selection-start-line="89" selection-start-column="47" selection-end-line="89" selection-end-column="47" />
-              <folding>
-                <element signature="e#0#3485#0" expanded="true" />
-                <element signature="e#4246#4247#0" expanded="true" />
-                <element signature="e#4277#4278#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="326">
+              <caret line="66" column="26" lean-forward="true" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -64,8 +67,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Phoneword.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="288">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -101,8 +104,8 @@
         <option value="$PROJECT_DIR$/src/booklistings/Section1_5.java" />
         <option value="$PROJECT_DIR$/src/booklistings/Section1_6.java" />
         <option value="$PROJECT_DIR$/src/Shipping.java" />
-        <option value="$PROJECT_DIR$/src/Phoneword.java" />
         <option value="$PROJECT_DIR$/src/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/Phoneword.java" />
         <option value="$PROJECT_DIR$/src/Intervals.java" />
       </list>
     </option>
@@ -114,10 +117,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="196" />
-    <option name="y" value="180" />
-    <option name="width" value="995" />
-    <option name="height" value="540" />
+    <option name="x" value="156" />
+    <option name="y" value="143" />
+    <option name="width" value="797" />
+    <option name="height" value="433" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -172,15 +175,15 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Intervals">
-    <configuration name="AddRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AddRandom" />
+    <configuration name="Intervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Intervals" />
       <module name="COMSC75" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Intervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Intervals" />
+    <configuration name="Phoneword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Phoneword" />
       <module name="COMSC75" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -210,10 +213,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Intervals" />
+        <item itemvalue="Application.Phoneword" />
         <item itemvalue="Application.Triangle" />
         <item itemvalue="Application.Shipping" />
         <item itemvalue="Application.Section1_6" />
-        <item itemvalue="Application.AddRandom" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +248,7 @@
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49019608" weight="0.12684564" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49019608" visible="true" weight="0.103355706" />
       <window_info id="Structure" order="1" sideWeight="0.50980395" side_tool="true" weight="0.12684564" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Nl-Palette" order="3" />
@@ -259,7 +262,7 @@
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.32939914" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32903227" />
-      <window_info anchor="bottom" x="652" y="234" width="635" height="943" id="Run" order="6" weight="0.21648045" />
+      <window_info anchor="bottom" x="652" y="234" width="635" height="943" id="Run" order="6" visible="true" weight="0.16480447" />
       <window_info anchor="bottom" x="-1292" y="278" width="2807" height="415" id="Debug" order="7" weight="0.40202275" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Thumbnails" order="9" weight="0.32901832" />
@@ -387,42 +390,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Shipping.java">
+    <entry file="file://$PROJECT_DIR$/src/Intervals.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="37" column="27" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#1225#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="326">
+          <caret line="66" column="26" lean-forward="true" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="360">
           <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#1200#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Intervals.java">
+    <entry file="file://$PROJECT_DIR$/src/Shipping.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="89" column="47" lean-forward="true" selection-start-line="89" selection-start-column="47" selection-end-line="89" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#3485#0" expanded="true" />
-            <element signature="e#4246#4247#0" expanded="true" />
-            <element signature="e#4277#4278#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Phoneword.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="288">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
