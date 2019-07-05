@@ -1,5 +1,3 @@
-package Bronze;
-
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
@@ -13,8 +11,11 @@ public class angry
     public static void main(String[] args) throws Exception
     {
         //USACO 2016 January Contest, Bronze Problem 2. Angry Cows
+//        Scanner in = new Scanner(new File("C:\\Users\\singh\\Projects\\IdeaProjects\\USACO\\src\\Bronze\\angry.in"));
+//        PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter(new File("C:\\Users\\singh\\Projects\\IdeaProjects\\USACO\\src\\Bronze\\angry.out"))));
         Scanner in = new Scanner(new File("angry.in"));
         PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter(new File("angry.out"))));
+
         //n is the number of hay bales in the game that Bessie has designed
         int n = in.nextInt();
 

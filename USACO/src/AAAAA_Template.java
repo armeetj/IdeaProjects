@@ -13,8 +13,14 @@ public class AAAAA_Template
 {
     public static void main(String[] args) throws Exception
     {
-        Scanner scanner = new Scanner(new File("filename.in"));
-        PrintWriter printWriter = new PrintWriter(new BufferedWriter(new FileWriter(new File("filename.out"))));
+
+        Scanner scanner = new Scanner(new File("C:\\Users\\singh\\Projects\\IdeaProjects\\USACO\\src\\Bronze\\filename.in"));
+        PrintWriter printWriter = new PrintWriter(new BufferedWriter(new FileWriter(new File("C:\\Users\\singh\\Projects\\IdeaProjects\\USACO\\src\\Bronze\\filename.out"))));
+
+//        Scanner scanner = new Scanner(new File("filename.in"));
+//        PrintWriter printWriter = new PrintWriter(new BufferedWriter(new FileWriter(new File("filename.out"))));
+
+
 
     }
 }
