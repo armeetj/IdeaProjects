@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e81e98fb-f2d9-4e50-9761-87c0fdb68e11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Temperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Creditcard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../USACO/src/Silver/leftout.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/COMSC75/Phoneword.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/COMSC75/Phoneword.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Phoneword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phoneword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Statistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Statistics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/COMSC75/Statistics.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/COMSC75/Statistics.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../USACO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../USACO/buckets.in" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/buckets.in" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../USACO/buckets.out" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/buckets.out" afterDir="false" />
@@ -37,32 +36,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Phoneword.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="e#0#2064#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Statistics.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="473">
-              <caret line="74" column="57" lean-forward="true" selection-start-line="74" selection-start-column="57" selection-end-line="74" selection-end-column="57" />
-              <folding>
-                <element signature="e#0#2705#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -99,6 +73,8 @@
         <option value="$PROJECT_DIR$/src/Temperature.java" />
         <option value="$PROJECT_DIR$/src/Phoneword.java" />
         <option value="$PROJECT_DIR$/src/Statistics.java" />
+        <option value="$PROJECT_DIR$/src/booklistings/Creditcard.java" />
+        <option value="$PROJECT_DIR$/src/Creditcard.java" />
       </list>
     </option>
   </component>
@@ -109,10 +85,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="101" />
-    <option name="y" value="31" />
-    <option name="width" value="2415" />
-    <option name="height" value="1320" />
+    <option name="x" value="-7" />
+    <option name="y" value="-7" />
+    <option name="width" value="1550" />
+    <option name="height" value="851" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -123,7 +99,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,10 +115,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -166,7 +143,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Phoneword">
+  <component name="RunManager" selected="Application.Creditcard">
+    <configuration name="Creditcard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Creditcard" />
+      <module name="COMSC75" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Intervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Intervals" />
       <module name="COMSC75" />
@@ -195,20 +179,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Triangle" />
-      <module name="COMSC75" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Creditcard" />
         <item itemvalue="Application.Phoneword" />
         <item itemvalue="Application.Statistics" />
         <item itemvalue="Application.Intervals" />
         <item itemvalue="Application.Temperature" />
-        <item itemvalue="Application.Triangle" />
       </list>
     </recent_temporary>
   </component>
@@ -238,9 +215,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49019608" visible="true" weight="0.08208955" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49019608" visible="true" weight="0.102345414" />
       <window_info id="Structure" order="1" sideWeight="0.50980395" side_tool="true" weight="0.12684564" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Nl-Palette" order="3" />
@@ -249,13 +225,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Image Layers" order="7" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32122904" />
-      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.16827439" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5013423" side_tool="true" weight="0.16759777" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.32960895" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.32939914" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32903227" />
-      <window_info active="true" anchor="bottom" x="652" y="234" width="635" height="943" id="Run" order="6" sideWeight="0.49946696" visible="true" weight="0.16827439" />
-      <window_info anchor="bottom" x="-1292" y="278" width="2807" height="415" id="Debug" order="7" weight="0.40075853" />
+      <window_info anchor="bottom" x="652" y="234" width="635" height="943" id="Run" order="6" sideWeight="0.4986577" weight="0.16759777" />
+      <window_info anchor="bottom" x="-1292" y="278" width="2807" height="415" id="Debug" order="7" weight="0.39944133" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Thumbnails" order="9" weight="0.32901832" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -312,6 +288,20 @@
     <MESSAGE value="fixed Shipping (more efficient)" />
     <option name="LAST_COMMIT_MESSAGE" value="fixed Shipping (more efficient)" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Creditcard.java</url>
+          <line>18</line>
+          <properties class="Creditcard" method="sumOfOddPlace">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
@@ -339,13 +329,6 @@
             <element signature="e#0#1863#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/booklistings/DisplayTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -416,7 +399,7 @@
     <entry file="file://$PROJECT_DIR$/src/Phoneword.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#0#2064#0" expanded="true" />
           </folding>
@@ -425,11 +408,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Statistics.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="74" column="57" lean-forward="true" selection-start-line="74" selection-start-column="57" selection-end-line="74" selection-end-column="57" />
-          <folding>
-            <element signature="e#0#2705#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="162">
+          <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Creditcard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="36" column="39" lean-forward="true" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/booklistings/DisplayTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>

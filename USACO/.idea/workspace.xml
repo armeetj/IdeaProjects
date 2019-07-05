@@ -1,18 +1,213 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/angry.java" line="28" />
+    <bookmark url="file://$PROJECT_DIR$/src/Bronze/angry.java" line="30" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74379368-5c1a-414f-895c-946b733dc3e0" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../COMSC75/src/Creditcard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze/buckets.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze/buckets2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze/factory3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze/guess3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze/herding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze/hps.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Silver/leftout.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../COMSC75/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../COMSC75/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstBot" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstBot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COMSC75/out/production/COMSC75/Statistics.class" beforeDir="false" afterPath="$PROJECT_DIR$/../COMSC75/out/production/COMSC75/Statistics.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/evolution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/evolution2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../USACOTraining/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../USACOTraining/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../USACOTraining/combo.in" beforeDir="false" afterPath="$PROJECT_DIR$/../USACOTraining/combo.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../USACOTraining/src/combo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../USACOTraining/src/combo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../algs4_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../algs4_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angry.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/angry.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angry.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/angry.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backforth.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/backforth.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backforth.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/backforth.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/badmilk.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/badmilk.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/badmilk.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/badmilk.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/balancing.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/balancing.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/balancing.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/balancing.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bcs.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/bcs.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bcs.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/bcs.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/billboard.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/billboard.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/billboard.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/billboard.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blist.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/blist.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blist.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/blist.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/blocks.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/blocks.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buckets.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/buckets.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buckets.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/herding.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cbarn.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/cbarn.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cbarn.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/cbarn.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/censor.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/censor.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/censor.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/censor.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cow.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/cow.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cow.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/cow.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cowjog.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/cowjog.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cowjog.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/cowjog.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cownomics.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/cownomics.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cownomics.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/cownomics.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cowqueue.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/cowqueue.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cowqueue.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/cowqueue.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cowroute.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/cowroute.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cowroute.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/cowroute.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cowsignal.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/cowsignal.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cowsignal.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/cowsignal.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cowtip.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/cowtip.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cowtip.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/cowtip.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crossroad.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/crossroad.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crossroad.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/crossroad.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crosswords.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/crosswords.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crosswords.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/crosswords.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diamond.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/diamond.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diamond.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/diamond.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evolution.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/evolution.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evolution.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/evolution.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/factory.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factory.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geteven.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/geteven.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geteven.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/geteven.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gift1.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/gift1.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gift1.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/gift1.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/herding.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/herding.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoofball.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/hoofball.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoofball.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hopscotch.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/hopscotch.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hopscotch.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hps.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hps.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/factory.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hs_err_pid31868.log" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/hs_err_pid31868.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hs_err_pid9332.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lifeguards.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lifeguards.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/lifeguards.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local_history.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lostcow.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lostcow.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marathon.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marathon.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/marathon.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/measurement.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/measurement.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/milkorder.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/milkorder.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/milkorder.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mixmilk.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/mixmilk.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mixmilk.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/mixmilk.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moocrypt.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/moocrypt.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/moocrypts.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notlast.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notlast.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/USACO/AAAAA_Template.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/USACO/AAAAA_Template.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/USACO/factory2$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/USACO/factory2$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/USACO/factory2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/USACO/factory2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outofplace.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outofplace.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/palpath.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/palpath.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/palpath.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/promote.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/promote.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/promote.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reduce.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reduce.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/revegetate.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/revegetate.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/revegetate.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ride.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ride.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/ride.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shell.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shell.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shuffle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shuffle.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shuffle.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sleepy.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/sleepy.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sleepy.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/speeding.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/speeding.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/speeding.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/square.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/square.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AAAAA_Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AAAAA_Template.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CatchThatCow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/CatchThatCow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/angry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/angry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backforth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/backforth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/badmilk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/badmilk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/badmilk2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/badmilk2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/balancing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/balancing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bcs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/bcs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/billboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/billboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/billboard2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/billboard2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/billboard3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/billboard3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/billboard4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/billboard4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/blist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blist2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/blist2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blist3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/blist3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/blocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buckets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/buckets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buckets2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cbarn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/cbarn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/censor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/censor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/cow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cowjog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/cowjog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cownomics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/cownomics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cownomics1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/cownomics1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cowqueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/cowqueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cowroute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/cowroute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cowroute_Part2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/cowroute_Part2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cowsignal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/cowsignal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cowsignal1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/cowsignal1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cowtip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/cowtip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crossroad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/crossroad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crosswords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/crosswords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crypt1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/crypt1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/diamond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/diamond.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/evolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/evolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/evolution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/evolution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/factory2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factory3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/geteven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/geteven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gift1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/gift1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/guess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/guess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/guess2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/guess2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/guess3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/herding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hoofball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/hoofball.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hopscotch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/hopscotch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/hps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inversions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/inversions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/learning.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lifeguards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/lifeguards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lostcow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/lostcow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/marathon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/marathon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/measurement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/measurement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/milkorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/milkorder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/milkorder1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/milkorder1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mixmilk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/mixmilk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/moocrypt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/moocrypt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/notlast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/notlast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/outofplace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/outofplace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/palpath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/palpath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/promote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/promote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/reduce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/revegetate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/revegetate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ride.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/ride.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/shell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shell2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/shell2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shuffle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/shuffle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sleepy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/sleepy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sleepySolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/sleepySolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/speeding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/speeding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/speeding2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/speeding2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/taming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/taming.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trapped.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/trapped.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trapped2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/trapped2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tttt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/tttt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taming.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/taming.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taming.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/tests.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trapped.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trapped.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tttt.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/tttt.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tttt.out" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,8 +224,7 @@
     <option name="myElementSize" value="238" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="ExportToHTMLSettings">
     <option name="printScope" value="4" />
@@ -39,13 +233,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/evolution2.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AAAAA_Template.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+            <state relative-caret-position="136">
+              <caret line="12" column="1" selection-end-line="19" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Silver/leftout.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#68#69#0" expanded="true" />
+                <element signature="e#102#103#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -78,12 +285,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/trapped.in" />
-        <option value="$PROJECT_DIR$/src/palpath.java" />
-        <option value="$PROJECT_DIR$/censor.in" />
-        <option value="$PROJECT_DIR$/src/censor.java" />
-        <option value="$PROJECT_DIR$/cowrouting.in" />
-        <option value="$PROJECT_DIR$/src/cowrouting.java" />
         <option value="$PROJECT_DIR$/cowroute.in" />
         <option value="$PROJECT_DIR$/src/cowroute.java" />
         <option value="$PROJECT_DIR$/learning.in" />
@@ -108,35 +309,41 @@
         <option value="$PROJECT_DIR$/src/blist3.java" />
         <option value="$PROJECT_DIR$/backforth.in" />
         <option value="$PROJECT_DIR$/src/backforth.java" />
-        <option value="$PROJECT_DIR$/src/shell.java" />
         <option value="$PROJECT_DIR$/shell.in" />
         <option value="$PROJECT_DIR$/src/sleepy.java" />
         <option value="$PROJECT_DIR$/src/sleepySolution.java" />
         <option value="$PROJECT_DIR$/sleepy.in" />
-        <option value="$PROJECT_DIR$/guess.in" />
         <option value="$PROJECT_DIR$/src/guess.java" />
         <option value="$PROJECT_DIR$/src/guess2.java" />
         <option value="$PROJECT_DIR$/src/crypt1.java" />
         <option value="$PROJECT_DIR$/revegetate.in" />
         <option value="$PROJECT_DIR$/revegetate.out" />
-        <option value="$PROJECT_DIR$/src/AAAAA_Template.java" />
         <option value="$PROJECT_DIR$/src/buckets.java" />
-        <option value="$PROJECT_DIR$/buckets.in" />
         <option value="$PROJECT_DIR$/src/revegetate.java" />
         <option value="$PROJECT_DIR$/src/factory.java" />
         <option value="$PROJECT_DIR$/evolution.in" />
-        <option value="$PROJECT_DIR$/factory.in" />
         <option value="$PROJECT_DIR$/src/evolution.java" />
         <option value="$PROJECT_DIR$/src/factory2.java" />
         <option value="$PROJECT_DIR$/src/evolution2.java" />
+        <option value="$PROJECT_DIR$/buckets.in" />
+        <option value="$PROJECT_DIR$/src/buckets2.java" />
+        <option value="$PROJECT_DIR$/src/factory3.java" />
+        <option value="$PROJECT_DIR$/factory.in" />
+        <option value="$PROJECT_DIR$/src/AAAAA_Template.java" />
+        <option value="$PROJECT_DIR$/herding.in" />
+        <option value="$PROJECT_DIR$/src/herding.java" />
+        <option value="$PROJECT_DIR$/guess.in" />
+        <option value="$PROJECT_DIR$/src/shell.java" />
+        <option value="$PROJECT_DIR$/src/guess3.java" />
+        <option value="$PROJECT_DIR$/src/Silver/leftout.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="336" />
-    <option name="y" value="265" />
-    <option name="width" value="1548" />
-    <option name="height" value="840" />
+    <option name="x" value="-7" />
+    <option name="y" value="-7" />
+    <option name="width" value="1550" />
+    <option name="height" value="851" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -144,8 +351,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,6 +367,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -169,19 +376,20 @@
     <property name="SearchEverywhereHistoryKey" value="split vertically&#9;ACTION&#9;SplitVertically&#10;split vert&#9;ACTION&#9;SplitVertically&#10;verticall&#9;ACTION&#9;SplitVertically&#10;split&#9;ACTION&#9;ToggleSideMode&#10;split hori&#9;ACTION&#9;SplitHorizontally&#10;split horizontally&#9;ACTION&#9;SplitHorizontally&#10;split hor&#9;ACTION&#9;SplitHorizontally&#10;spli&#9;ACTION&#9;SplitVertically&#10;split vertical&#9;ACTION&#9;SplitVertically&#10;split h&#9;ACTION&#9;SplitHorizontally&#10;new class&#9;ACTION&#9;NewClass&#10;new&#9;ACTION&#9;NewGroup&#10;new &#9;ACTION&#9;NewGroup&#10;new cla&#9;ACTION&#9;NewClass&#10;surround with &#9;ACTION&#9;SurroundWithLiveTemplate&#10;open&#9;ACTION&#9;OpenFile&#10;projet&#9;null&#9;null&#10;file&#9;PSI&#9;JAVA://java.io.File&#10;new clas&#9;ACTION&#9;NewClass&#10;run&#9;ACTION&#9;ActivateRunToolWindow" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554000497056" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="TEXT" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../USACOTraining" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../COMSC75" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\singh\IdeaProjects\USACO\src" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\singh\Projects\IdeaProjects\USACO\src\Bronze" />
       <recent name="$PROJECT_DIR$" />
       <recent name="C:\Users\singh\IdeaProjects\USACO" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\singh\IdeaProjects\USACO\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -196,7 +404,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.evolution">
+  <component name="RunManager" selected="Application.leftout">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -209,40 +417,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="buckets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="buckets" />
+    <configuration name="buckets2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="buckets2" />
       <module name="USACO" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="evolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="evolution" />
+    <configuration name="factory3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="factory3" />
       <module name="USACO" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="factory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="factory" />
+    <configuration name="guess3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="guess3" />
       <module name="USACO" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="factory2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="factory2" />
+    <configuration name="herding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="herding" />
       <module name="USACO" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="revegetate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="revegetate" />
+    <configuration name="leftout" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leftout" />
       <module name="USACO" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -309,19 +517,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.revegetate" />
-      <item itemvalue="Application.buckets" />
-      <item itemvalue="Application.factory" />
-      <item itemvalue="Application.factory2" />
-      <item itemvalue="Application.evolution" />
+      <item itemvalue="Application.buckets2" />
+      <item itemvalue="Application.factory3" />
+      <item itemvalue="Application.herding" />
+      <item itemvalue="Application.guess3" />
+      <item itemvalue="Application.leftout" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.evolution" />
-        <item itemvalue="Application.factory2" />
-        <item itemvalue="Application.factory" />
-        <item itemvalue="Application.buckets" />
-        <item itemvalue="Application.revegetate" />
+        <item itemvalue="Application.leftout" />
+        <item itemvalue="Application.guess3" />
+        <item itemvalue="Application.herding" />
+        <item itemvalue="Application.factory3" />
+        <item itemvalue="Application.buckets2" />
       </list>
     </recent_temporary>
   </component>
@@ -348,10 +556,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16040269" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Nl-Palette" order="3" />
@@ -359,19 +567,18 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Image Layers" order="7" />
-      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49093816" weight="0.3197425" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.48880598" weight="0.31618434" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.32939914" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32939914" />
+      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.49946696" weight="0.3290461" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" sideWeight="0.49946696" weight="0.32832617" />
-      <window_info anchor="bottom" x="652" y="234" width="635" height="943" id="Run" order="6" sideWeight="0.3033049" weight="0.3080125" />
-      <window_info anchor="bottom" x="419" y="292" width="1084" height="430" id="Debug" order="7" sideWeight="0.6966951" side_tool="true" weight="0.31759655" />
+      <window_info anchor="bottom" x="652" y="234" width="635" height="943" id="Run" order="6" sideWeight="0.29731545" weight="0.39871383" />
+      <window_info anchor="bottom" x="419" y="292" width="1084" height="430" id="Debug" order="7" sideWeight="0.7026846" side_tool="true" weight="0.39944133" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Thumbnails" order="9" weight="0.32901832" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" weight="0.32939914" />
-      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32995737" />
       <window_info anchor="right" id="Commander" order="1" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -383,6 +590,7 @@
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info anchor="right" x="100" y="100" width="1080" height="600" id="Documentation" order="10" type="FLOATING" />
+      <window_info anchor="right" id="Maven" order="11" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12313433" />
@@ -422,727 +630,751 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/lostcow.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/lostcow.java</url>
           <line>18</line>
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/lostcow.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/lostcow.java</url>
           <line>20</line>
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/gift1.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/gift1.java</url>
           <line>21</line>
           <properties />
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/gift1.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/gift1.java</url>
           <line>23</line>
           <properties />
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/gift1.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/gift1.java</url>
           <line>28</line>
           <properties />
           <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/gift1.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/gift1.java</url>
           <line>32</line>
           <properties />
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/gift1.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/gift1.java</url>
           <line>36</line>
           <properties />
           <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/gift1.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/gift1.java</url>
           <line>72</line>
           <properties />
           <option name="timeStamp" value="56" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/gift1.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/gift1.java</url>
           <line>71</line>
           <properties />
           <option name="timeStamp" value="57" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/gift1.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/gift1.java</url>
           <line>68</line>
           <properties />
           <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/gift1.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/gift1.java</url>
           <line>55</line>
           <properties />
           <option name="timeStamp" value="59" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/gift1.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/gift1.java</url>
           <line>54</line>
           <properties />
           <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/gift1.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/gift1.java</url>
           <line>59</line>
           <properties />
           <option name="timeStamp" value="62" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cowsignal.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/cowsignal.java</url>
           <line>85</line>
           <properties />
           <option name="timeStamp" value="81" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cowsignal.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/cowsignal.java</url>
           <line>87</line>
           <properties />
           <option name="timeStamp" value="82" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cowsignal.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/cowsignal.java</url>
           <line>91</line>
           <properties />
           <option name="timeStamp" value="84" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cowsignal.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/cowsignal.java</url>
           <line>93</line>
           <properties />
           <option name="timeStamp" value="85" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cowsignal.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/cowsignal.java</url>
           <line>95</line>
           <properties />
           <option name="timeStamp" value="87" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cowsignal.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/cowsignal.java</url>
           <line>90</line>
           <properties />
           <option name="timeStamp" value="88" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cowsignal.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/cowsignal.java</url>
           <line>43</line>
           <properties />
           <option name="timeStamp" value="93" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cowsignal.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/cowsignal.java</url>
           <line>46</line>
           <properties />
           <option name="timeStamp" value="94" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cowsignal.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/cowsignal.java</url>
           <line>45</line>
           <properties />
           <option name="timeStamp" value="95" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cowsignal.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/cowsignal.java</url>
           <line>47</line>
           <properties />
           <option name="timeStamp" value="96" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cowsignal.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/cowsignal.java</url>
           <line>49</line>
           <properties />
           <option name="timeStamp" value="101" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cowsignal.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/cowsignal.java</url>
           <line>48</line>
           <properties />
           <option name="timeStamp" value="102" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cowsignal.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/cowsignal.java</url>
           <line>52</line>
           <properties />
           <option name="timeStamp" value="103" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/billboard.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/billboard.java</url>
           <line>43</line>
           <properties />
           <option name="timeStamp" value="122" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/billboard.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/billboard.java</url>
           <line>51</line>
           <properties />
           <option name="timeStamp" value="123" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/billboard.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/billboard.java</url>
           <line>57</line>
           <properties />
           <option name="timeStamp" value="124" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/billboard.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/billboard.java</url>
           <line>72</line>
           <properties />
           <option name="timeStamp" value="125" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/billboard.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/billboard.java</url>
           <line>69</line>
           <properties />
           <option name="timeStamp" value="126" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/billboard.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/billboard.java</url>
           <line>75</line>
           <properties />
           <option name="timeStamp" value="127" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/billboard.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/billboard.java</url>
           <line>80</line>
           <properties />
           <option name="timeStamp" value="128" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/billboard.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/billboard.java</url>
           <line>82</line>
           <properties />
           <option name="timeStamp" value="130" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/billboard.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/billboard.java</url>
           <line>85</line>
           <properties />
           <option name="timeStamp" value="131" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/billboard.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/billboard.java</url>
           <line>88</line>
           <properties />
           <option name="timeStamp" value="132" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/billboard.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/billboard.java</url>
           <line>89</line>
           <properties />
           <option name="timeStamp" value="133" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/billboard.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/billboard.java</url>
           <line>92</line>
           <properties />
           <option name="timeStamp" value="134" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/billboard.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/billboard.java</url>
           <line>102</line>
           <properties />
           <option name="timeStamp" value="135" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/billboard.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/billboard.java</url>
           <line>95</line>
           <properties />
           <option name="timeStamp" value="137" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/billboard.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/billboard.java</url>
           <line>96</line>
           <properties />
           <option name="timeStamp" value="138" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/billboard.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/billboard.java</url>
           <line>97</line>
           <properties />
           <option name="timeStamp" value="139" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/billboard.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/billboard.java</url>
           <line>109</line>
           <properties />
           <option name="timeStamp" value="140" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/billboard.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/billboard.java</url>
           <line>111</line>
           <properties />
           <option name="timeStamp" value="141" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/billboard.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/billboard.java</url>
           <line>112</line>
           <properties />
           <option name="timeStamp" value="142" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/billboard.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/billboard.java</url>
           <line>113</line>
           <properties />
           <option name="timeStamp" value="143" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/billboard.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/billboard.java</url>
           <line>106</line>
           <properties />
           <option name="timeStamp" value="144" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/billboard.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/billboard.java</url>
           <line>108</line>
           <properties />
           <option name="timeStamp" value="145" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/lifeguards.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/lifeguards.java</url>
           <line>86</line>
           <properties />
           <option name="timeStamp" value="149" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/lifeguards.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/lifeguards.java</url>
           <line>93</line>
           <properties />
           <option name="timeStamp" value="150" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/lifeguards.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/lifeguards.java</url>
           <line>80</line>
           <properties />
           <option name="timeStamp" value="152" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/outofplace.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/outofplace.java</url>
           <line>39</line>
           <properties />
           <option name="timeStamp" value="162" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/outofplace.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/outofplace.java</url>
           <line>40</line>
           <properties />
           <option name="timeStamp" value="163" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/outofplace.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/outofplace.java</url>
           <line>41</line>
           <properties />
           <option name="timeStamp" value="164" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/blocks.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/blocks.java</url>
           <line>61</line>
           <properties />
           <option name="timeStamp" value="186" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/blocks.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/blocks.java</url>
           <line>21</line>
           <properties />
           <option name="timeStamp" value="187" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/angry.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/angry.java</url>
           <line>38</line>
           <properties />
           <option name="timeStamp" value="192" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/angry.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/angry.java</url>
           <line>37</line>
           <properties />
           <option name="timeStamp" value="193" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/angry.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/angry.java</url>
           <line>97</line>
           <properties />
           <option name="timeStamp" value="195" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/angry.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/angry.java</url>
           <line>99</line>
           <properties />
           <option name="timeStamp" value="196" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/angry.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/angry.java</url>
           <line>100</line>
           <properties />
           <option name="timeStamp" value="197" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/angry.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/angry.java</url>
           <line>109</line>
           <properties />
           <option name="timeStamp" value="199" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/angry.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/angry.java</url>
           <line>110</line>
           <properties />
           <option name="timeStamp" value="200" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/angry.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/angry.java</url>
           <line>111</line>
           <properties />
           <option name="timeStamp" value="201" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/angry.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/angry.java</url>
           <line>116</line>
           <properties />
           <option name="timeStamp" value="202" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/angry.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/angry.java</url>
           <line>117</line>
           <properties />
           <option name="timeStamp" value="203" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/angry.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/angry.java</url>
           <line>126</line>
           <properties />
           <option name="timeStamp" value="205" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/angry.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/angry.java</url>
           <line>127</line>
           <properties />
           <option name="timeStamp" value="206" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/angry.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/angry.java</url>
           <line>128</line>
           <properties />
           <option name="timeStamp" value="207" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/angry.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/angry.java</url>
           <line>129</line>
           <properties />
           <option name="timeStamp" value="208" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/angry.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/angry.java</url>
           <line>132</line>
           <properties />
           <option name="timeStamp" value="210" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/angry.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/angry.java</url>
           <line>134</line>
           <properties />
           <option name="timeStamp" value="211" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/angry.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/angry.java</url>
           <line>136</line>
           <properties />
           <option name="timeStamp" value="212" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/angry.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/angry.java</url>
           <line>140</line>
           <properties />
           <option name="timeStamp" value="213" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/angry.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/angry.java</url>
           <line>141</line>
           <properties />
           <option name="timeStamp" value="214" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/angry.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/angry.java</url>
           <line>145</line>
           <properties />
           <option name="timeStamp" value="215" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/marathon.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/marathon.java</url>
           <line>53</line>
           <properties />
           <option name="timeStamp" value="219" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/badmilk.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/badmilk.java</url>
           <line>89</line>
           <properties />
           <option name="timeStamp" value="225" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/crosswords.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/crosswords.java</url>
           <line>43</line>
           <properties />
           <option name="timeStamp" value="226" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/billboard3.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/billboard3.java</url>
           <line>21</line>
           <properties />
           <option name="timeStamp" value="227" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/billboard4.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/billboard4.java</url>
           <line>34</line>
           <properties />
           <option name="timeStamp" value="229" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/billboard4.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/billboard4.java</url>
           <line>42</line>
           <properties />
           <option name="timeStamp" value="230" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/billboard4.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/billboard4.java</url>
           <line>45</line>
           <properties />
           <option name="timeStamp" value="231" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/billboard4.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/billboard4.java</url>
           <line>53</line>
           <properties />
           <option name="timeStamp" value="232" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/billboard4.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/billboard4.java</url>
           <line>57</line>
           <properties />
           <option name="timeStamp" value="233" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/billboard4.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/billboard4.java</url>
           <line>58</line>
           <properties />
           <option name="timeStamp" value="234" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/billboard4.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/billboard4.java</url>
           <line>60</line>
           <properties />
           <option name="timeStamp" value="235" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/shuffle.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/shuffle.java</url>
           <line>40</line>
           <properties />
           <option name="timeStamp" value="242" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cowtip.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/cowtip.java</url>
           <line>30</line>
           <properties />
           <option name="timeStamp" value="243" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cbarn.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/cbarn.java</url>
           <line>21</line>
           <properties />
           <option name="timeStamp" value="258" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/balancing.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/balancing.java</url>
           <line>85</line>
           <properties />
           <option name="timeStamp" value="261" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/balancing.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/balancing.java</url>
           <line>63</line>
           <properties />
           <option name="timeStamp" value="262" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/trapped.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/trapped.java</url>
           <line>60</line>
           <properties />
           <option name="timeStamp" value="263" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/trapped.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/trapped.java</url>
           <line>50</line>
           <properties />
           <option name="timeStamp" value="264" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/trapped2.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/trapped2.java</url>
           <line>37</line>
           <properties />
           <option name="timeStamp" value="268" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/censor.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/censor.java</url>
           <line>18</line>
           <properties />
           <option name="timeStamp" value="270" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cowroute.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/cowroute.java</url>
           <line>18</line>
           <properties />
           <option name="timeStamp" value="271" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cowroute_Part2.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/cowroute_Part2.java</url>
           <line>20</line>
           <properties />
           <option name="timeStamp" value="272" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/learning.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/learning.java</url>
           <line>32</line>
           <properties />
           <option name="timeStamp" value="273" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/reduce.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/reduce.java</url>
           <line>54</line>
           <properties />
           <option name="timeStamp" value="275" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/hoofball.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/hoofball.java</url>
           <line>41</line>
           <properties />
           <option name="timeStamp" value="278" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/taming.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/taming.java</url>
           <line>29</line>
           <properties />
           <option name="timeStamp" value="284" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/test.java</url>
           <line>19</line>
           <properties />
           <option name="timeStamp" value="290" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/blist.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/blist.java</url>
           <line>59</line>
           <properties />
           <option name="timeStamp" value="300" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/backforth.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/backforth.java</url>
           <line>52</line>
           <properties />
           <option name="timeStamp" value="302" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/shell.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/shell.java</url>
           <line>32</line>
           <properties />
           <option name="timeStamp" value="303" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/sleepy.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/sleepy.java</url>
           <line>41</line>
           <properties />
           <option name="timeStamp" value="326" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/sleepy.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/sleepy.java</url>
           <line>42</line>
           <properties />
           <option name="timeStamp" value="327" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/sleepy.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/sleepy.java</url>
           <line>47</line>
           <properties />
           <option name="timeStamp" value="328" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/sleepy.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/sleepy.java</url>
           <line>46</line>
           <properties />
           <option name="timeStamp" value="329" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/sleepySolution.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/sleepySolution.java</url>
           <line>32</line>
           <properties />
           <option name="timeStamp" value="330" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/guess.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/guess.java</url>
           <line>42</line>
           <properties />
           <option name="timeStamp" value="333" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/guess.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/guess.java</url>
           <line>44</line>
           <properties />
           <option name="timeStamp" value="334" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/guess2.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/guess2.java</url>
           <line>67</line>
           <properties />
           <option name="timeStamp" value="336" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/guess2.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/guess2.java</url>
           <line>49</line>
           <properties />
           <option name="timeStamp" value="337" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/revegetate.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/revegetate.java</url>
           <line>33</line>
           <properties />
           <option name="timeStamp" value="338" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/factory.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/factory.java</url>
           <line>48</line>
           <properties />
           <option name="timeStamp" value="348" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/evolution.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/evolution.java</url>
           <line>58</line>
           <properties />
           <option name="timeStamp" value="354" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/factory2.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/factory2.java</url>
           <line>61</line>
           <properties />
           <option name="timeStamp" value="360" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/factory2.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/factory2.java</url>
           <line>25</line>
           <properties />
           <option name="timeStamp" value="361" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Bronze/factory3.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="374" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Bronze/factory3.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="381" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Bronze/herding.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="383" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Bronze/guess3.java</url>
+          <line>90</line>
+          <properties />
+          <option name="timeStamp" value="386" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/angry.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/angry.java</url>
           <line>95</line>
           <properties class="angry" method="nextBale">
             <option name="EMULATED" value="true" />
@@ -1150,7 +1382,7 @@
           <option name="timeStamp" value="194" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/marathon.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/marathon.java</url>
           <line>8</line>
           <properties class="marathon" method="main">
             <option name="EMULATED" value="true" />
@@ -1158,7 +1390,7 @@
           <option name="timeStamp" value="218" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/billboard3.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/billboard3.java</url>
           <line>64</line>
           <properties class="billboard3" method="area">
             <option name="EMULATED" value="true" />
@@ -1166,7 +1398,7 @@
           <option name="timeStamp" value="228" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="NONE" type="java-method">
-          <url>file://$PROJECT_DIR$/src/angry.java</url>
+          <url>file://$PROJECT_DIR$/src/Bronze/angry.java</url>
           <line>10</line>
           <log-expression expression="    static int[] order;&#10;    public static void main(String[] args) throws Exception&#10;    {&#10;        //USACO 2016 January Contest, Bronze Problem 2. Angry Cows&#10;        Scanner in = new Scanner(new File(&quot;angry.in&quot;));&#10;        PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter(new File(&quot;angry.out&quot;))));&#10;        //n is the number of hay bales in the game that Bessie has designed&#10;        int n = in.nextInt();" language="JAVA" />
           <properties class="angry" method="main">
@@ -1181,6 +1413,15 @@
         <watch expression="drinkPerson" />
         <watch expression="sickTime" />
         <watch expression="s" />
+        <watch expression="stations[1]" />
+        <watch expression="stations[3]" />
+        <watch expression="animals[3]" />
+        <watch expression="scanner" />
+        <watch expression="scanner" language="JAVA" />
+        <watch expression="scanner" language="JAVA" />
+        <watch expression="characteristicsCount" />
+        <watch expression="feasibleSetCopy" />
+        <watch expression="feasibleSetCopy" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
@@ -1205,93 +1446,14 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mixmilk.out">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="16" column="21" selection-end-line="90" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blist2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blist.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blist.out">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="137" column="17" selection-start-line="137" selection-start-column="17" selection-end-line="137" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blist3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="603">
-          <caret line="48" column="9" lean-forward="true" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backforth.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backforth.out">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lifeguards.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/moocrypt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mixmilk.java">
+    <entry file="file://$PROJECT_DIR$/src/Bronze/mixmilk.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-42">
           <caret line="34" column="47" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/blocks.java">
+    <entry file="file://$PROJECT_DIR$/src/Bronze/blocks.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-502">
           <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
@@ -1301,34 +1463,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/badmilk.java">
+    <entry file="file://$PROJECT_DIR$/src/Bronze/badmilk.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/milkorder1.java">
+    <entry file="file://$PROJECT_DIR$/src/Bronze/milkorder1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bcs.java">
+    <entry file="file://$PROJECT_DIR$/src/Bronze/bcs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/angry.out">
+    <entry file="file://$PROJECT_DIR$/src/Bronze/angry.out">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/angry.in">
+    <entry file="file://$PROJECT_DIR$/src/Bronze/angry.in">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/backforth.java">
+    <entry file="file://$PROJECT_DIR$/src/Bronze/backforth.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="1" selection-start-line="1" selection-end-line="5" selection-end-column="2" />
@@ -1353,7 +1515,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sleepy.java">
+    <entry file="file://$PROJECT_DIR$/src/Bronze/sleepy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="20" column="23" lean-forward="true" selection-end-line="134" selection-end-column="1" />
@@ -1363,7 +1525,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sleepySolution.java">
+    <entry file="file://$PROJECT_DIR$/src/Bronze/sleepySolution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
           <caret line="38" column="15" lean-forward="true" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
@@ -1380,14 +1542,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sleepy.in">
+    <entry file="file://$PROJECT_DIR$/src/Bronze/sleepy.in">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/blist.java">
+    <entry file="file://$PROJECT_DIR$/src/Bronze/blist.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1225">
           <caret line="71" column="58" lean-forward="true" selection-start-line="71" selection-start-column="58" selection-end-line="71" selection-end-column="58" />
@@ -1398,31 +1560,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/shell.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="46" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/guess.java">
+    <entry file="file://$PROJECT_DIR$/src/Bronze/guess.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="842">
           <caret line="100" column="9" selection-end-line="138" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/guess.out">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/balancing.java">
+    <entry file="file://$PROJECT_DIR$/src/Bronze/balancing.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
@@ -1432,7 +1577,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/guess2.java">
+    <entry file="file://$PROJECT_DIR$/src/Bronze/guess2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="17" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="17" />
@@ -1442,7 +1587,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/crypt1.java">
+    <entry file="file://$PROJECT_DIR$/src/Bronze/crypt1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
@@ -1452,25 +1597,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/guess.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/angry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="101" lean-forward="true" selection-end-line="14" selection-end-column="101" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/template.java" />
-    <entry file="file://$PROJECT_DIR$/revegetate.out">
+    <entry file="file://$PROJECT_DIR$/src/Bronze/revegetate.out">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
@@ -1484,51 +1612,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/buckets.out">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/buckets.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/buckets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="52" column="46" selection-start-line="52" selection-start-column="46" selection-end-line="52" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#491#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-            <element signature="e#1586#1587#0" expanded="true" />
-            <element signature="e#1646#1647#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AAAAA_Template.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="10" column="12" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/revegetate.java">
+    <entry file="file://$PROJECT_DIR$/src/Bronze/revegetate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
           <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
@@ -1538,21 +1622,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/evolution.in">
+    <entry file="file://$PROJECT_DIR$/src/Bronze/evolution.in">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
           <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/evolution.out">
+    <entry file="file://$PROJECT_DIR$/src/Bronze/evolution.out">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/factory2.java">
+    <entry file="file://$PROJECT_DIR$/src/Bronze/factory2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="614">
           <caret line="44" column="31" lean-forward="true" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
@@ -1562,7 +1646,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/factory.java">
+    <entry file="file://$PROJECT_DIR$/src/Bronze/factory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
@@ -1572,21 +1656,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/factory.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factory.out">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/evolution.java">
+    <entry file="file://$PROJECT_DIR$/src/Bronze/evolution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="17" />
@@ -1598,12 +1668,200 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/evolution2.java">
+    <entry file="file://$PROJECT_DIR$/src/Bronze/evolution2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
+        <state relative-caret-position="170">
           <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bronze/cow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bronze/buckets.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bronze/buckets.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bronze/buckets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="60" column="5" lean-forward="true" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bronze/buckets2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="64" column="6" selection-start-line="64" selection-start-column="6" selection-end-line="65" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#472#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1693#1694#0" expanded="true" />
+            <element signature="e#1721#1722#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bronze/factory.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bronze/factory.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bronze/factory3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/herding.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bronze/herding.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/io/PrintWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bronze/herding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="1041" column="22" selection-start-line="1041" selection-start-column="22" selection-end-line="1041" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bronze/shell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="54" column="24" lean-forward="true" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bronze/shell2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bronze/guess3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="73" column="32" lean-forward="true" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/LinkedHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="439" selection-start-line="439" selection-end-line="439" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AAAAA_Template.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bronze/angry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guess.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guess.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Silver/leftout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#68#69#0" expanded="true" />
+            <element signature="e#102#103#0" expanded="true" />
           </folding>
         </state>
       </provider>
