@@ -5,101 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74379368-5c1a-414f-895c-946b733dc3e0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Silver/cowjump.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Silver/cowjump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Silver/leftout.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Silver/leftout.out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/AAAAA_Template.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/USACO/AAAAA_Template.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/CatchThatCow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/Characteristic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/angry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/USACO/angry.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/backforth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/badmilk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/badmilk2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/balancing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/bcs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/billboard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/billboard2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/billboard3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/billboard4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/blist$Segment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/blist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/blist2$Segment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/blist2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/blist3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/blocks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/buckets.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/buckets2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/cbarn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/censor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/cow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/cowjog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/cownomics.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/cownomics1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/cowqueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/cowroute.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/cowsignal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/cowsignal1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/cowtip.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/crossroad.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/crosswords.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/crypt1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/diamond.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/evolution$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/evolution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/evolution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/factory$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/factory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/factory2$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/factory2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/factory3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/geteven.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/gift1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/guess2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/guess3$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/guess3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/herding.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/hoofball.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/hopscotch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/hps.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/inversions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/learning.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/leftout.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/USACO/leftout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/lifeguards.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/lostcow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/marathon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/measurement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/milkorder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/milkorder1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/mixmilk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/moocrypt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/notlast.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/outofplace.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/palpath.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/promote.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/reduce.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/revegetate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/ride.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/shell.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/shell2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/shuffle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/sleepy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/sleepySolution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/speeding.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/speeding2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/taming.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/tests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/trapped.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/trapped2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/tttt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AAAAA_Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AAAAA_Template.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bronze/angry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/angry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Silver/leftout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Silver/leftout.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -130,10 +36,9 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/AAAAA_Template.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="68">
-                  <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+                <state>
+                  <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
                   <folding>
-                    <element signature="e#0#466#0" expanded="true" />
                     <element signature="imports" expanded="true" />
                   </folding>
                 </state>
@@ -141,12 +46,11 @@
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/Silver/cowjump.java">
+            <entry file="file://$PROJECT_DIR$/src/Bronze/factory3.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="224">
-                  <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+                <state relative-caret-position="332">
+                  <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
                   <folding>
-                    <element signature="e#0#821#0" expanded="true" />
                     <element signature="imports" expanded="true" />
                   </folding>
                 </state>
@@ -158,7 +62,7 @@
       <split-second>
         <splitter split-orientation="vertical" split-proportion="0.5">
           <split-first>
-            <leaf>
+            <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
               <file pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/src/Silver/cowjump.in">
                   <provider selected="true" editor-type-id="text-editor" />
@@ -167,7 +71,7 @@
             </leaf>
           </split-first>
           <split-second>
-            <leaf>
+            <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
               <file pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/src/Silver/cowjump.out">
                   <provider selected="true" editor-type-id="text-editor" />
@@ -259,10 +163,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="y" value="-7" />
-    <option name="width" value="1550" />
-    <option name="height" value="851" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1064" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -270,6 +174,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -287,13 +192,12 @@
               <item name="USACO" type="b2602c69:ProjectViewProjectNode" />
               <item name="USACO" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Silver" type="462c0819:PsiDirectoryNode" />
+              <item name="Bronze" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -448,11 +352,11 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.angry (1)" />
+      <item itemvalue="Application.angry" />
+      <item itemvalue="Application.cowjump" />
       <item itemvalue="Application.guess3" />
       <item itemvalue="Application.leftout" />
-      <item itemvalue="Application.angry" />
-      <item itemvalue="Application.angry (1)" />
-      <item itemvalue="Application.cowjump" />
     </list>
     <recent_temporary>
       <list>
@@ -487,10 +391,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18017058" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18255034" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Nl-Palette" order="3" />
@@ -1304,6 +1208,12 @@
           <properties />
           <option name="timeStamp" value="386" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Bronze/factory3.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="387" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Bronze/angry.java</url>
           <line>96</line>
@@ -1512,16 +1422,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Bronze/factory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Bronze/evolution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -1602,16 +1502,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Bronze/factory3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1726,27 +1616,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AAAAA_Template.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        <state>
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
           <folding>
-            <element signature="e#0#466#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Silver/cowjump.out">
+    <entry file="file://$PROJECT_DIR$/src/Silver/cowjump.in">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Silver/cowjump.in">
+    <entry file="file://$PROJECT_DIR$/src/Silver/cowjump.out">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Silver/cowjump.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        <state relative-caret-position="306">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
           <folding>
-            <element signature="e#0#821#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bronze/factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bronze/factory3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+          <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>

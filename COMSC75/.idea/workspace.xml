@@ -5,25 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e81e98fb-f2d9-4e50-9761-87c0fdb68e11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Creditcard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../USACO/src/Silver/leftout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LockerPuzzle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/booklistings/Arrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/COMSC75/Statistics.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/COMSC75/Statistics.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../USACO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../USACO/buckets.in" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/buckets.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../USACO/buckets.out" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/buckets.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../USACO/factory.out" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/factory.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../USACO/herding.in" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/herding.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../USACO/herding.out" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/herding.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../USACO/out/production/USACO/AAAAA_Template.class" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/out/production/USACO/AAAAA_Template.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../USACO/out/production/USACO/factory2$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/out/production/USACO/factory2$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../USACO/out/production/USACO/factory2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/out/production/USACO/factory2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../USACO/src/AAAAA_Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/src/AAAAA_Template.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../USACO/src/buckets2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/src/buckets2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../USACO/src/factory3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/src/factory3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../USACO/src/guess3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/src/guess3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../USACO/src/herding.java" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/src/herding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../USACO/src/shell2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/src/shell2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,7 +22,32 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LockerPuzzle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#1145#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MergeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#2447#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -75,6 +86,9 @@
         <option value="$PROJECT_DIR$/src/Statistics.java" />
         <option value="$PROJECT_DIR$/src/booklistings/Creditcard.java" />
         <option value="$PROJECT_DIR$/src/Creditcard.java" />
+        <option value="$PROJECT_DIR$/src/booklistings/Arrays.java" />
+        <option value="$PROJECT_DIR$/src/LockerPuzzle.java" />
+        <option value="$PROJECT_DIR$/src/MergeTest.java" />
       </list>
     </option>
   </component>
@@ -84,11 +98,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="y" value="-7" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1550" />
-    <option name="height" value="851" />
+    <option name="height" value="852" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -110,6 +124,12 @@
               <item name="COMSC75" type="b2602c69:ProjectViewProjectNode" />
               <item name="COMSC75" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="COMSC75" type="b2602c69:ProjectViewProjectNode" />
+              <item name="COMSC75" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="booklistings" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -143,7 +163,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Creditcard">
+  <component name="RunManager" selected="Application.MergeTest">
+    <configuration name="Arrays (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays" />
+      <module name="COMSC75" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="booklistings.Arrays" />
+      <module name="COMSC75" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="booklistings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Creditcard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Creditcard" />
       <module name="COMSC75" />
@@ -151,29 +191,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Intervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Intervals" />
+    <configuration name="LockerPuzzle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LockerPuzzle" />
       <module name="COMSC75" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Phoneword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Phoneword" />
-      <module name="COMSC75" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Statistics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Statistics" />
-      <module name="COMSC75" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Temperature" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Temperature" />
+    <configuration name="MergeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeTest" />
       <module name="COMSC75" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -181,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeTest" />
+        <item itemvalue="Application.LockerPuzzle" />
+        <item itemvalue="Application.Arrays (1)" />
+        <item itemvalue="Application.Arrays" />
         <item itemvalue="Application.Creditcard" />
-        <item itemvalue="Application.Phoneword" />
-        <item itemvalue="Application.Statistics" />
-        <item itemvalue="Application.Intervals" />
-        <item itemvalue="Application.Temperature" />
       </list>
     </recent_temporary>
   </component>
@@ -214,9 +240,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49019608" visible="true" weight="0.102345414" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49019608" visible="true" weight="0.103355706" />
       <window_info id="Structure" order="1" sideWeight="0.50980395" side_tool="true" weight="0.12684564" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Nl-Palette" order="3" />
@@ -230,7 +257,7 @@
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.32939914" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32903227" />
-      <window_info anchor="bottom" x="652" y="234" width="635" height="943" id="Run" order="6" sideWeight="0.4986577" weight="0.16759777" />
+      <window_info active="true" anchor="bottom" x="652" y="234" width="635" height="943" id="Run" order="6" sideWeight="0.4986577" visible="true" weight="0.16759777" />
       <window_info anchor="bottom" x="-1292" y="278" width="2807" height="415" id="Debug" order="7" weight="0.39944133" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Thumbnails" order="9" weight="0.32901832" />
@@ -299,6 +326,20 @@
           </properties>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/MergeTest.java</url>
+          <line>71</line>
+          <properties class="MergeTest" method="merge">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/booklistings/Arrays.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -335,20 +376,10 @@
     <entry file="file://$PROJECT_DIR$/src/booklistings/Section1_4.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/booklistings/Section1_5.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/booklistings/Section1_6.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="58" lean-forward="true" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Intervals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="66" column="26" lean-forward="true" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -424,6 +455,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/booklistings/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Intervals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/booklistings/Section1_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LockerPuzzle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#1145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MergeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#2447#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
