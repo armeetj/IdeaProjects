@@ -27,7 +27,7 @@ public class LockerPuzzle
       {
         //if the locker is open, close it
         //if the locker is closed, open it
-        lockers[j] = lockers[j] == false;
+        lockers[j] = !lockers[j];
       }
     }
 
@@ -41,6 +41,5 @@ public class LockerPuzzle
         System.out.print(" ");
       }
     }
-
   }
 }

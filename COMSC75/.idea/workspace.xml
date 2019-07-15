@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e81e98fb-f2d9-4e50-9761-87c0fdb68e11" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/COMSC75/LockerPuzzle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/COMSC75/LockerPuzzle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/COMSC75/MergeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/COMSC75/MergeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LockerPuzzle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LockerPuzzle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MatrixMulti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MatrixMulti.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MergeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MergeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/out/production/USACO/Bronze/evolution.in" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/out/production/USACO/Bronze/evolution.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/out/production/USACO/Bronze/evolution.out" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/out/production/USACO/Bronze/evolution.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/out/production/USACO/Bronze/evolution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/src/Bronze/evolution.in" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/src/Bronze/evolution.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/src/Bronze/evolution.out" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/src/Bronze/evolution.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USACO/src/Bronze/evolution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../USACO/src/Bronze/evolution2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,20 +35,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LockerPuzzle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+            <state relative-caret-position="510">
+              <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MatrixMulti.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#2466#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MergeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="e#0#3557#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1666">
+              <caret line="106" column="21" selection-start-line="106" selection-start-column="21" selection-end-line="106" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -83,6 +113,8 @@
         <option value="$PROJECT_DIR$/src/booklistings/Arrays.java" />
         <option value="$PROJECT_DIR$/src/LockerPuzzle.java" />
         <option value="$PROJECT_DIR$/src/MergeTest.java" />
+        <option value="$PROJECT_DIR$/src/Test.java" />
+        <option value="$PROJECT_DIR$/src/MatrixMulti.java" />
       </list>
     </option>
   </component>
@@ -93,10 +125,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-6" />
-    <option name="y" value="-6" />
-    <option name="width" value="1240" />
-    <option name="height" value="681" />
+    <option name="x" value="252" />
+    <option name="y" value="37" />
+    <option name="width" value="1934" />
+    <option name="height" value="1059" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -106,8 +138,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,29 +189,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MergeTest">
+  <component name="RunManager" selected="Application.MatrixMulti">
     <configuration name="Arrays (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays" />
-      <module name="COMSC75" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="booklistings.Arrays" />
-      <module name="COMSC75" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="booklistings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Creditcard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Creditcard" />
       <module name="COMSC75" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -192,6 +204,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MatrixMulti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MatrixMulti" />
+      <module name="COMSC75" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MergeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MergeTest" />
       <module name="COMSC75" />
@@ -199,13 +218,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="COMSC75" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MatrixMulti" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.MergeTest" />
         <item itemvalue="Application.LockerPuzzle" />
         <item itemvalue="Application.Arrays (1)" />
-        <item itemvalue="Application.Arrays" />
-        <item itemvalue="Application.Creditcard" />
       </list>
     </recent_temporary>
   </component>
@@ -234,10 +260,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49019608" visible="true" weight="0.0826226" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49019608" visible="true" weight="0.17583893" />
       <window_info id="Structure" order="1" sideWeight="0.50980395" side_tool="true" weight="0.12684564" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Nl-Palette" order="3" />
@@ -245,13 +271,13 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Image Layers" order="7" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32122904" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32047158" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5013423" side_tool="true" weight="0.16759777" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.32960895" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.32939914" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32903227" />
-      <window_info anchor="bottom" x="652" y="234" width="635" height="943" id="Run" order="6" sideWeight="0.4986577" weight="0.12861736" />
+      <window_info active="true" anchor="bottom" x="652" y="234" width="635" height="943" id="Run" order="6" sideWeight="0.4986577" visible="true" weight="0.25139666" />
       <window_info anchor="bottom" x="-1292" y="278" width="2807" height="415" id="Debug" order="7" weight="0.39944133" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Thumbnails" order="9" weight="0.32901832" />
@@ -322,7 +348,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/MergeTest.java</url>
-          <line>71</line>
+          <line>64</line>
           <properties class="MergeTest" method="merge">
             <option name="EMULATED" value="true" />
           </properties>
@@ -475,17 +501,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LockerPuzzle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        <state relative-caret-position="510">
+          <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MergeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="1666">
+          <caret line="106" column="21" selection-start-line="106" selection-start-column="21" selection-end-line="106" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MatrixMulti.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
           <folding>
-            <element signature="e#0#3557#0" expanded="true" />
+            <element signature="e#0#2466#0" expanded="true" />
           </folding>
         </state>
       </provider>

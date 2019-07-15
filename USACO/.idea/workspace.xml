@@ -5,7 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74379368-5c1a-414f-895c-946b733dc3e0" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../COMSC75/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COMSC75/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../COMSC75/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COMSC75/out/production/COMSC75/LockerPuzzle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../COMSC75/out/production/COMSC75/LockerPuzzle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COMSC75/out/production/COMSC75/MergeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../COMSC75/out/production/COMSC75/MergeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COMSC75/src/LockerPuzzle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../COMSC75/src/LockerPuzzle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COMSC75/src/MatrixMulti.java" beforeDir="false" afterPath="$PROJECT_DIR$/../COMSC75/src/MatrixMulti.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COMSC75/src/MergeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../COMSC75/src/MergeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/USACO/Bronze/evolution.in" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/USACO/Bronze/evolution.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/USACO/Bronze/evolution.out" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/USACO/Bronze/evolution.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/USACO/Bronze/evolution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bronze/evolution.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/evolution.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bronze/evolution.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/evolution.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bronze/evolution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/evolution2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,8 +49,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/AAAAA_Template.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+                <state relative-caret-position="51">
+                  <caret line="11" selection-start-line="11" selection-end-line="25" selection-end-column="1" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -46,10 +59,10 @@
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/Bronze/factory3.java">
+            <entry file="file://$PROJECT_DIR$/src/Bronze/evolution2.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="332">
-                  <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+                <state relative-caret-position="463">
+                  <caret line="73" column="67" selection-start-line="73" selection-start-column="67" selection-end-line="73" selection-end-column="67" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -64,8 +77,12 @@
           <split-first>
             <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
               <file pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/src/Silver/cowjump.in">
-                  <provider selected="true" editor-type-id="text-editor" />
+                <entry file="file://$PROJECT_DIR$/src/Bronze/evolution.in">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="51">
+                      <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+                    </state>
+                  </provider>
                 </entry>
               </file>
             </leaf>
@@ -73,7 +90,7 @@
           <split-second>
             <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
               <file pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/src/Silver/cowjump.out">
+                <entry file="file://$PROJECT_DIR$/src/Bronze/evolution.out">
                   <provider selected="true" editor-type-id="text-editor" />
                 </entry>
               </file>
@@ -105,12 +122,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Bronze/evolution2.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/learning.in" />
-        <option value="$PROJECT_DIR$/src/cowroute_Part2.java" />
-        <option value="$PROJECT_DIR$/src/learning.java" />
         <option value="$PROJECT_DIR$/reduce.in" />
         <option value="$PROJECT_DIR$/src/reduce.java" />
         <option value="$PROJECT_DIR$/bcs.in" />
@@ -159,14 +176,17 @@
         <option value="$PROJECT_DIR$/src/AAAAA_Template.java" />
         <option value="$PROJECT_DIR$/src/Silver/leftout.java" />
         <option value="$PROJECT_DIR$/src/Silver/cowjump.java" />
+        <option value="$PROJECT_DIR$/src/Bronze/evolution.in" />
+        <option value="$PROJECT_DIR$/src/Bronze/evolution.out" />
+        <option value="$PROJECT_DIR$/src/Bronze/evolution2.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1064" />
+    <option name="x" value="-15" />
+    <option name="y" value="-15" />
+    <option name="width" value="3029" />
+    <option name="height" value="1663" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -174,8 +194,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -188,16 +206,12 @@
               <item name="USACO" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="USACO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="USACO" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Bronze" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -233,9 +247,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.cowjump">
+  <component name="RunManager" selected="Application.evolution2">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AAAAA_Template" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AAAAA_Template" />
+      <module name="USACO" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -276,16 +298,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="guess3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="guess3" />
-      <module name="USACO" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="leftout" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leftout" />
+    <configuration name="evolution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="evolution2" />
       <module name="USACO" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -352,19 +366,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.AAAAA_Template" />
       <item itemvalue="Application.angry (1)" />
       <item itemvalue="Application.angry" />
       <item itemvalue="Application.cowjump" />
-      <item itemvalue="Application.guess3" />
-      <item itemvalue="Application.leftout" />
+      <item itemvalue="Application.evolution2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.evolution2" />
+        <item itemvalue="Application.AAAAA_Template" />
         <item itemvalue="Application.cowjump" />
         <item itemvalue="Application.angry (1)" />
         <item itemvalue="Application.angry" />
-        <item itemvalue="Application.leftout" />
-        <item itemvalue="Application.guess3" />
       </list>
     </recent_temporary>
   </component>
@@ -391,10 +405,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18255034" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12793177" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Nl-Palette" order="3" />
@@ -408,8 +422,8 @@
       <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.49946696" weight="0.3290461" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" sideWeight="0.49946696" weight="0.3279743" />
-      <window_info anchor="bottom" x="652" y="234" width="635" height="943" id="Run" order="6" sideWeight="0.29731545" visible="true" weight="0.39871383" />
-      <window_info anchor="bottom" x="419" y="292" width="1084" height="430" id="Debug" order="7" sideWeight="0.7026846" side_tool="true" weight="0.39944133" />
+      <window_info anchor="bottom" x="652" y="234" width="635" height="943" id="Run" order="6" sideWeight="0.2969169" weight="0.51882845" />
+      <window_info anchor="bottom" x="419" y="292" width="1084" height="430" id="Debug" order="7" sideWeight="0.7030831" side_tool="true" weight="0.51882845" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Thumbnails" order="9" weight="0.32901832" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -1214,6 +1228,12 @@
           <properties />
           <option name="timeStamp" value="387" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Bronze/evolution2.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="388" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Bronze/angry.java</url>
           <line>96</line>
@@ -1225,7 +1245,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Bronze/marathon.java</url>
           <line>8</line>
-          <properties class="marathon" method="main">
+          <properties class="Bronze.marathon">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="218" />
@@ -1233,7 +1253,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Bronze/billboard3.java</url>
           <line>64</line>
-          <properties class="billboard3" method="area">
+          <properties class="Bronze.billboard3">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="228" />
@@ -1398,20 +1418,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Bronze/evolution.in">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Bronze/evolution.out">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Bronze/factory2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="614">
@@ -1430,16 +1436,6 @@
             <element signature="imports" expanded="true" />
             <element signature="e#2278#2279#0" expanded="true" />
             <element signature="e#2338#2339#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Bronze/evolution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1614,22 +1610,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AAAAA_Template.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Silver/cowjump.in">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Silver/cowjump.out">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Silver/cowjump.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -1650,10 +1630,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Silver/cowjump.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Bronze/factory3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="332">
           <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Silver/cowjump.in">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AAAAA_Template.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="11" selection-start-line="11" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bronze/evolution.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bronze/evolution.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bronze/evolution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="73" column="67" selection-start-line="73" selection-start-column="67" selection-end-line="73" selection-end-column="67" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
