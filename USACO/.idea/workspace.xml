@@ -5,20 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74379368-5c1a-414f-895c-946b733dc3e0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../COMSC75/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COMSC75/src/TestAccounts.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../COMSC75/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../COMSC75/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../COMSC75/out/production/COMSC75/LockerPuzzle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../COMSC75/out/production/COMSC75/LockerPuzzle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../COMSC75/out/production/COMSC75/MergeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../COMSC75/out/production/COMSC75/MergeTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../COMSC75/src/LockerPuzzle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../COMSC75/src/LockerPuzzle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COMSC75/out/production/COMSC75/PolygonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../COMSC75/out/production/COMSC75/PolygonTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COMSC75/out/production/COMSC75/RegularPolygon.class" beforeDir="false" afterPath="$PROJECT_DIR$/../COMSC75/out/production/COMSC75/RegularPolygon.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../COMSC75/src/MatrixMulti.java" beforeDir="false" afterPath="$PROJECT_DIR$/../COMSC75/src/MatrixMulti.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../COMSC75/src/MergeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../COMSC75/src/MergeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COMSC75/src/PolygonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../COMSC75/src/PolygonTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/Bronze/evolution.in" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/USACO/Bronze/evolution.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/Bronze/evolution.out" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/USACO/Bronze/evolution.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/Bronze/evolution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bronze/evolution.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/evolution.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bronze/evolution.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/evolution.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bronze/evolution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/evolution2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,7 +42,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/AAAAA_Template.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="51">
+                <state relative-caret-position="54">
                   <caret line="11" selection-start-line="11" selection-end-line="25" selection-end-column="1" />
                   <folding>
                     <element signature="imports" expanded="true" />
@@ -61,8 +54,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/Bronze/evolution2.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="463">
-                  <caret line="73" column="67" selection-start-line="73" selection-start-column="67" selection-end-line="73" selection-end-column="67" />
+                <state relative-caret-position="162">
+                  <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -79,7 +72,7 @@
               <file pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/src/Bronze/evolution.in">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="51">
+                    <state relative-caret-position="54">
                       <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
                     </state>
                   </provider>
@@ -185,8 +178,8 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-15" />
     <option name="y" value="-15" />
-    <option name="width" value="3029" />
-    <option name="height" value="1663" />
+    <option name="width" value="3030" />
+    <option name="height" value="1664" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -405,10 +398,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12793177" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1295302" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Nl-Palette" order="3" />
@@ -1648,7 +1641,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AAAAA_Template.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
+        <state relative-caret-position="54">
           <caret line="11" selection-start-line="11" selection-end-line="25" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1658,7 +1651,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Bronze/evolution.in">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
+        <state relative-caret-position="54">
           <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
         </state>
       </provider>
@@ -1668,8 +1661,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Bronze/evolution2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="73" column="67" selection-start-line="73" selection-start-column="67" selection-end-line="73" selection-end-column="67" />
+        <state relative-caret-position="162">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

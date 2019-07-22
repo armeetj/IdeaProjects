@@ -31,7 +31,7 @@ public class MatrixMulti
 		if(matrixA[0].length != matrixB.length)
 		{
 			System.out.println("These two matrices aren't compatible for" +
-			"multiplication");
+			" multiplication");
 		} else
 		{
 			//run the multiplyMatrix function, pass matrixA, matrixB, and store the
