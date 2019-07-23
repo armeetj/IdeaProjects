@@ -6,6 +6,8 @@
 	to find the area of this triangle.
 */
 
+import java.text.DecimalFormat;
+
 public class TestAccounts
 {
   public static void main(String[] args)
@@ -15,7 +17,7 @@ public class TestAccounts
 
     //define and initialize the 5 Account objects with values
     Account account1 = new Account(1066, 7500);
-    Account savingsAccount = new SavingsAccount(30507, 4500, 1.5);
+    Account savingsAccount = new SavingsAccount(30507, 4500, 0.015);
     Account creditCardAccount1 = new CreditCardAccount(51782737, 7000, .08, 1000);
     Account creditCardAccount2 = new CreditCardAccount(629553328, 1500, .075, 5000);
     Account creditCardAccount3 = new CreditCardAccount(4977201043L, -5000, .07, 10000);
@@ -44,6 +46,9 @@ class Account
   //private fields
   private long number;
   private double balance;
+
+  //we will use the DecimalFormatter to format our numbers to two decimal places
+  DecimalFormat decimalFormat = new DecimalFormat("#0.00");
 
   //Constructors
   //this is the default constructor that takes no args
@@ -92,11 +97,11 @@ class Account
     }
   }
 
-  //return a string with the Acount # and Balance
+  //return a string with the Account # and Balance
   @Override
   public String toString()
   {
-    return ("Account #: " + number + "  Balance: " + balance);
+    return ("Account #: " + number + "\nBalance: $" + decimalFormat.format(balance) + "\n");
   }
 }
 
@@ -144,10 +149,9 @@ class SavingsAccount extends Account
   @Override
   public String toString()
   {
-    return ("Account #: " + getNumber() + "  Balance: " +
-            getBalance() + " Interest Rate: " + apr +
-            " Annual Interest: " + calculateInterest());
+    return (super.toString() + "Interest Rate: " + decimalFormat.format(apr * 100.0) + "%\n" + "Annual Interest: $" + decimalFormat.format(calculateInterest()) + "\n");
   }
+
 }
 
 class CreditCardAccount extends Account
@@ -189,7 +193,7 @@ class CreditCardAccount extends Account
       return 0;
     }else
     {
-      return (20 + (apr / 12) * (-getBalance()));
+      return (Math.min(20, (apr / 12.0) * (-getBalance())));
     }
   }
 
@@ -198,9 +202,7 @@ class CreditCardAccount extends Account
   @Override
   public String toString()
   {
-    return ("Account #: " + getNumber() + "  Balance: " +
-            getBalance() + " Interest Rate: " + apr +
-            " Annual Interest: " + apr + " Credit Limit: " +
-            creditLimit + " MonthlyPayment: " + calculatePayment());
+    return (super.toString() + "Interest Rate: " + decimalFormat.format(apr * 100.0) + "%\n" + "Credit Limit: $" + decimalFormat.format(creditLimit) + "\n" + "Monthly Payment: $" + decimalFormat.format(calculatePayment()) + "\n");
   }
+
 }
