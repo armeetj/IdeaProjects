@@ -142,12 +142,12 @@ public class Customer
     if (!isNumeric(amount))
     {
       System.out.println(amount + " is not a number");
-    } else if (Integer.parseInt(amount) < 0)
+    } else if (Double.parseDouble(amount) < 0)
     {
       System.out.println("You cannot deposit a negative amount");
     } else
     {
-      accounts.get(0).deposit(Integer.parseInt(amount));
+      accounts.get(index).deposit(Double.parseDouble(amount));
       showBalance(index);
     }
   }
@@ -164,15 +164,15 @@ public class Customer
     if (!isNumeric(amount))
     {
       System.out.println(amount + " is not a number");
-    } else if (Integer.parseInt(amount) < 0)
+    } else if (Double.parseDouble(amount) < 0)
     {
       System.out.println("You cannot withdraw a negative amount");
-    } else if (Integer.parseInt(amount) > accounts.get(index).getBalance())
+    } else if (Double.parseDouble(amount) > accounts.get(index).getBalance())
     {
       System.out.println("You can't withdraw more than you have");
     }else
     {
-      accounts.get(0).deposit(Integer.parseInt(amount));
+      accounts.get(index).withdraw(Double.parseDouble(amount));
       showBalance(index);
     }
   }
@@ -214,7 +214,7 @@ public class Customer
   {
     try
     {
-      Integer.parseInt(input);
+      Double.parseDouble(input);
       return true;
     } catch (Exception e)
     {
