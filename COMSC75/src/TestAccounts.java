@@ -12,36 +12,36 @@ public class TestAccounts
 {
   public static void main(String[] args)
   {
-    //make 5 Account Objects (initialize)
-    Account[] accounts = new Account[5];
+    //make 5 Account_2 Objects (initialize)
+    Account_2[] account2s = new Account_2[5];
 
-    //define and initialize the 5 Account objects with values
-    Account account1 = new Account(1066, 7500);
-    Account savingsAccount = new SavingsAccount(30507, 4500, 0.015);
-    Account creditCardAccount1 = new CreditCardAccount(51782737, 7000, .08, 1000);
-    Account creditCardAccount2 = new CreditCardAccount(629553328, 1500, .075, 5000);
-    Account creditCardAccount3 = new CreditCardAccount(4977201043L, -5000, .07, 10000);
+    //define and initialize the 5 Account_2 objects with values
+    Account_2 account21 = new Account_2(1066, 7500);
+    Account_2 savingsAccount2 = new SavingsAccount2(30507, 4500, 0.015);
+    Account_2 creditCardAccount21 = new CreditCardAccount2(51782737, 7000, .08, 1000);
+    Account_2 creditCardAccount22 = new CreditCardAccount2(629553328, 1500, .075, 5000);
+    Account_2 creditCardAccount23 = new CreditCardAccount2(4977201043L, -5000, .07, 10000);
 
     //add values to array
-    accounts[0] = account1;
-    accounts[1] = savingsAccount;
-    accounts[2] = creditCardAccount1;
-    accounts[3] = creditCardAccount2;
-    accounts[4] = creditCardAccount3;
+    account2s[0] = account21;
+    account2s[1] = savingsAccount2;
+    account2s[2] = creditCardAccount21;
+    account2s[3] = creditCardAccount22;
+    account2s[4] = creditCardAccount23;
 
     //for each account, make a deposity, withdraw some money,
     // and then print out the status of that account using the toString method
-    for (Account account : accounts)
+    for (Account_2 account2 : account2s)
     {
-      account.deposit(2134);
-      account.withdraw(4782);
-      System.out.println(account.toString());
+      account2.deposit(2134);
+      account2.withdraw(4782);
+      System.out.println(account2.toString());
     }
   }
 }
 
 
-class Account
+class Account_2
 {
   //private fields
   private long number;
@@ -52,14 +52,14 @@ class Account
 
   //Constructors
   //this is the default constructor that takes no args
-  public Account()
+  public Account_2()
   {
     //pass to the constructor with 2 args with 0 and 0
     this(0, 0);
   }
 
   //Constructor: given 2 args: number and balance, set the fields to these values
-  public Account(long number, double balance)
+  public Account_2(long number, double balance)
   {
     this.number = number;
     this.balance = balance;
@@ -97,28 +97,28 @@ class Account
     }
   }
 
-  //return a string with the Account # and Balance
+  //return a string with the Account_2 # and Balance
   @Override
   public String toString()
   {
-    return ("Account #: " + number + "\nBalance: $" + decimalFormat.format(balance) + "\n");
+    return ("Account_2 #: " + number + "\nBalance: $" + decimalFormat.format(balance) + "\n");
   }
 }
 
-class SavingsAccount extends Account
+class SavingsAccount2 extends Account_2
 {
   //private fields
   private double apr;
 
   //default constructor
-  public SavingsAccount()
+  public SavingsAccount2()
   {
     //call 3 arg constructor
     this(0, 0, 0);
   }
 
   //3 arg constructor that takes in number, balance, and apr
-  public SavingsAccount(long number, double balance, double apr)
+  public SavingsAccount2(long number, double balance, double apr)
   {
     //call the super(parent class's constructor)
     super(number, balance);
@@ -154,21 +154,21 @@ class SavingsAccount extends Account
 
 }
 
-class CreditCardAccount extends Account
+class CreditCardAccount2 extends Account_2
 {
   //private fields
   private double apr;
   private double creditLimit;
 
   //default constructor
-  public CreditCardAccount()
+  public CreditCardAccount2()
   {
     //call 4 arg constructor
     this(0, 0, 0,0);
   }
 
   //4 arg constructor that takes in number, balance, apr, and creditLimit
-  public CreditCardAccount(long number, double balance, double apr, double creditLimit)
+  public CreditCardAccount2(long number, double balance, double apr, double creditLimit)
   {
     //call the super(parent class's constructor)
     super(number, balance);
