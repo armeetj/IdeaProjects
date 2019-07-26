@@ -14,6 +14,7 @@ import java.util.Scanner;
 
 public class Customer
 {
+  //initialize the scanner, accounts ArrayList, and formatter
   static Scanner scanner;
   static ArrayList<Account> accounts;
   static DecimalFormat formatter = new DecimalFormat("#0.00");
@@ -35,7 +36,7 @@ public class Customer
         String rawString = scanner.nextLine();
         String[] parsedString = rawString.split(":");
 
-        //add the account
+        //make an account and add the account to our arraylist
         Account newAccount = new Account(Integer.parseInt(parsedString[0]),
                 parsedString[1], Double.parseDouble(parsedString[2]));
         accounts.add(newAccount);
@@ -113,11 +114,13 @@ public class Customer
     String accountNumber = scanner.nextLine();
 
     int index = -1;
+    //user wants to stop
     if (accountNumber.equals("stop"))
     {
       return -3;
     }
 
+    //check if the input is a valid number
     if (isNumeric(accountNumber))
     {
       index = findIndex(accounts, Integer.parseInt(accountNumber));
@@ -134,19 +137,23 @@ public class Customer
     return index;
   }
 
+  //this method will go prompt the user to deposit and will handle all errors
   public static void promptDeposit(int index)
   {
     System.out.print("Enter amount to deposit: $");
     String amount = scanner.nextLine();
 
+    //not a number
     if (!isNumeric(amount))
     {
       System.out.println(amount + " is not a number");
     } else if (Double.parseDouble(amount) < 0)
     {
+      //can't deposit neg amounts
       System.out.println("You cannot deposit a negative amount");
     } else
     {
+      //otherwise make the deposit and show the balance for the account
       accounts.get(index).deposit(Double.parseDouble(amount));
       showBalance(index);
     }
@@ -163,12 +170,15 @@ public class Customer
 
     if (!isNumeric(amount))
     {
+      //not a number
       System.out.println(amount + " is not a number");
     } else if (Double.parseDouble(amount) < 0)
     {
+      //can't withdraw neg #
       System.out.println("You cannot withdraw a negative amount");
     } else if (Double.parseDouble(amount) > accounts.get(index).getBalance())
     {
+      //can't withdraw more that what you have in the bank
       System.out.println("You can't withdraw more than you have");
     }else
     {
@@ -179,6 +189,8 @@ public class Customer
 
   public static void promptChoice(int index)
   {
+    //goes through and asks the user if they would like to
+    //deposit, withdraw, or finish
     while(true)
     {
       System.out.print("D)eposit, W)ithdraw, or F)inish? ");
@@ -214,6 +226,7 @@ public class Customer
   {
     try
     {
+      //if this throws an error, it will go to the catch block and return false
       Double.parseDouble(input);
       return true;
     } catch (Exception e)
