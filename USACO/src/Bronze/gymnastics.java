@@ -15,6 +15,7 @@ import java.util.Scanner;
 public class gymnastics
 {
     public static int[][] matches;
+    public static int consistentPairs;
     public static void main(String[] args) throws Exception
     {
         Scanner scanner = new Scanner(new File("C:\\Users\\Armeet Singh Jatyani\\Documents\\Development\\IdeaProjects\\USACO\\src\\Bronze\\gymnastics.in"));
@@ -38,13 +39,29 @@ public class gymnastics
             }
         }
 
-        for (int i = 1; i <= COWS; i++)
+        for (int i = 0; i < COWS; i++)
         {
-            for (int j = 1; j <= COWS; j++)
+            for (int j = 0; j < COWS; j++)
             {
-
+                boolean isConsistentPair = true;
+                for (int match = 1; match < matches.length; match++)
+                {
+                    if (!isInFront(match, matches[0][i], matches[0][j]))
+                    {
+                        isConsistentPair=false;
+                        break;
+                    }
+                    //System.out.print("cow1: " + matches[match][i] + "   cow2: " + matches[match][j]);
+                    //System.out.println();
+                }
+                if(isConsistentPair)
+                {
+                    consistentPairs++;
+                }
             }
         }
+        printWriter.println(consistentPairs);
+        printWriter.close();
 
     }
 

@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74379368-5c1a-414f-895c-946b733dc3e0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Bronze/gymnastics.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze/gymnastics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze/gymnastics.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="74379368-5c1a-414f-895c-946b733dc3e0" name="Default" comment="working">
+      <change afterPath="$PROJECT_DIR$/src/Bronze/whereami.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze/whereami.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze/whereami.out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/USACO/AAAAA_Template.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/USACO/AAAAA_Template.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/USACO/META-INF/USACO.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AAAAA_Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AAAAA_Template.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bronze/gymnastics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/gymnastics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bronze/gymnastics.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/gymnastics.out" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,18 +40,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>answer2</find>
-      <find>System</find>
-      <find>))</find>
-      <find>2</find>
-      <find>addout</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -65,7 +57,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="Settings.Markdown" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -89,7 +81,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.gymnastics">
+  <component name="RunManager" selected="Application.whereami">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -105,14 +97,6 @@
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="angry (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="angry" />
-      <module name="USACO" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -136,6 +120,20 @@
     </configuration>
     <configuration name="gymnastics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bronze.gymnastics" />
+      <module name="USACO" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bronze.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="whereami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bronze.whereami" />
       <module name="USACO" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -209,18 +207,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.AAAAA_Template" />
-      <item itemvalue="Application.angry (1)" />
       <item itemvalue="Application.cowjump" />
       <item itemvalue="Application.evolution2" />
       <item itemvalue="Application.gymnastics" />
+      <item itemvalue="Application.whereami" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.whereami" />
         <item itemvalue="Application.gymnastics" />
         <item itemvalue="Application.evolution2" />
         <item itemvalue="Application.AAAAA_Template" />
         <item itemvalue="Application.cowjump" />
-        <item itemvalue="Application.angry (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -235,6 +233,14 @@
       <option name="presentableId" value="Default" />
       <updated>1513655748099</updated>
     </task>
+    <task id="LOCAL-00001" summary="working">
+      <created>1576349256959</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576349256959</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -251,11 +257,17 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="working" />
+    <option name="LAST_COMMIT_MESSAGE" value="working" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -889,6 +901,11 @@
           <url>file://$PROJECT_DIR$/src/Bronze/evolution2.java</url>
           <line>39</line>
           <option name="timeStamp" value="388" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Bronze/whereami.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="392" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Bronze/angry.java</url>
