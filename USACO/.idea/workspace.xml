@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74379368-5c1a-414f-895c-946b733dc3e0" name="Default" comment="working">
-      <change afterPath="$PROJECT_DIR$/src/Bronze/whereami.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze/whereami.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze/whereami.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/AAAAA_Template.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/USACO/AAAAA_Template.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/USACO/META-INF/USACO.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AAAAA_Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AAAAA_Template.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bronze/gymnastics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/gymnastics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bronze/gymnastics.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/gymnastics.out" afterDir="false" />
-    </list>
+    <list default="true" id="74379368-5c1a-414f-895c-946b733dc3e0" name="Default" comment="finished" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -240,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576349256959</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="finished">
+      <created>1576360666434</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576360666434</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -267,7 +264,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="working" />
-    <option name="LAST_COMMIT_MESSAGE" value="working" />
+    <MESSAGE value="finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
