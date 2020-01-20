@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74379368-5c1a-414f-895c-946b733dc3e0" name="Default" comment="finished" />
+    <list default="true" id="74379368-5c1a-414f-895c-946b733dc3e0" name="Default" comment="finished">
+      <change afterPath="$PROJECT_DIR$/photo.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze/photo.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze/photo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze/photo.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze/photo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze/race.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze/word.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze/word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze/word.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/USACO/Bronze/reduce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bronze/reduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze/reduce.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,25 +51,32 @@
     <setting file="file://$PROJECT_DIR$/src/Bronze/evolution2.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1Uz7DgsRYQfdigAWvWrzvbPS3jq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="split vertically&#9;ACTION&#9;SplitVertically&#10;split vert&#9;ACTION&#9;SplitVertically&#10;verticall&#9;ACTION&#9;SplitVertically&#10;split&#9;ACTION&#9;ToggleSideMode&#10;split hori&#9;ACTION&#9;SplitHorizontally&#10;split horizontally&#9;ACTION&#9;SplitHorizontally&#10;split hor&#9;ACTION&#9;SplitHorizontally&#10;spli&#9;ACTION&#9;SplitVertically&#10;split vertical&#9;ACTION&#9;SplitVertically&#10;split h&#9;ACTION&#9;SplitHorizontally&#10;new class&#9;ACTION&#9;NewClass&#10;new&#9;ACTION&#9;NewGroup&#10;new &#9;ACTION&#9;NewGroup&#10;new cla&#9;ACTION&#9;NewClass&#10;surround with &#9;ACTION&#9;SurroundWithLiveTemplate&#10;open&#9;ACTION&#9;OpenFile&#10;projet&#9;null&#9;null&#10;file&#9;PSI&#9;JAVA://java.io.File&#10;new clas&#9;ACTION&#9;NewClass&#10;run&#9;ACTION&#9;ActivateRunToolWindow" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554000497056" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="TEXT" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="Settings.Markdown" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Armeet Singh Jatyani\Documents\Development\IdeaProjects\USACO\src\Bronze" />
+      <recent name="C:\Users\Armeet Singh Jatyani\Documents\Development\IdeaProjects\USACO\src" />
+      <recent name="C:\Users\Armeet Singh Jatyani\Documents\Development\IdeaProjects\USACO" />
       <recent name="C:\Users\singh\Projects\IdeaProjects\USACO\src\Bronze" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="C:\Users\singh\IdeaProjects\USACO" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Armeet Singh Jatyani\Documents\Development\IdeaProjects\USACO" />
+      <recent name="C:\Users\Armeet Singh Jatyani\Documents\Development\IdeaProjects\USACO\src\Bronze" />
+      <recent name="C:\Users\Armeet Singh Jatyani\Documents\Development\IdeaProjects\USACO\src" />
       <recent name="C:\Users\singh\IdeaProjects\USACO\src" />
     </key>
   </component>
@@ -71,17 +92,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.whereami">
+  <component name="RunManager" selected="Application.photo2">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AAAAA_Template" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AAAAA_Template" />
-      <module name="USACO" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -92,24 +105,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cowjump" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cowjump" />
+    <configuration name="photo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="photo" />
       <module name="USACO" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="evolution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="evolution2" />
+    <configuration name="photo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="photo2" />
       <module name="USACO" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gymnastics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bronze.gymnastics" />
+    <configuration name="race" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="race" />
+      <module name="USACO" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="whereami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bronze.whereami" />
       <module name="USACO" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -122,8 +143,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="whereami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bronze.whereami" />
+    <configuration name="word" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bronze.word" />
       <module name="USACO" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -196,19 +217,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AAAAA_Template" />
-      <item itemvalue="Application.cowjump" />
-      <item itemvalue="Application.evolution2" />
-      <item itemvalue="Application.gymnastics" />
       <item itemvalue="Application.whereami" />
+      <item itemvalue="Application.word" />
+      <item itemvalue="Application.photo" />
+      <item itemvalue="Application.race" />
+      <item itemvalue="Application.photo2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.photo2" />
+        <item itemvalue="Application.photo" />
+        <item itemvalue="Application.race" />
+        <item itemvalue="Application.word" />
         <item itemvalue="Application.whereami" />
-        <item itemvalue="Application.gymnastics" />
-        <item itemvalue="Application.evolution2" />
-        <item itemvalue="Application.AAAAA_Template" />
-        <item itemvalue="Application.cowjump" />
       </list>
     </recent_temporary>
   </component>
@@ -767,7 +788,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Bronze/reduce.java</url>
-          <line>54</line>
+          <line>52</line>
           <option name="timeStamp" value="275" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -905,6 +926,16 @@
           <line>31</line>
           <option name="timeStamp" value="392" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Bronze/word.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="395" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Bronze/photo2.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="399" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Bronze/angry.java</url>
           <line>96</line>
@@ -976,80 +1007,5 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>11</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>USACO</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

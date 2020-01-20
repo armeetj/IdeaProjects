@@ -1,5 +1,3 @@
-package Bronze;
-
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Arrays;
